@@ -2,19 +2,13 @@
 layout: default
 ---
 
-<div class="home">
+<h1>Lunch.</h1>
 
-  <h1>Posts</h1>
+<div id='map'></div>
 
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </li>
-    {% endfor %}
-  </ul>
+<script type='text/javascript'>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+	var map = L.mapbox.map('map', 'examples.map-i86nkdio')
+    .setView([45.1089, -69.3545], 6);
 
-</div>
+</script>
