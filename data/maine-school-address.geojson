@@ -1,0 +1,4655 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Auburn School Department",
+        "School Name": "East Auburn Community School",
+        "Address": "East Auburn Community School, Maine",
+        "Dist.Code": "1007",
+        "Enroll": "189",
+        "Free": "76",
+        "% Free": "40.21",
+        "Reduced": "11",
+        "% Reduced": "5.82",
+        "Eligible": "87",
+        "% Eligible": "46.03",
+        "County": "Androscoggin",
+        "Accuracy Score": "0.53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.264462,
+          44.678686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Auburn School Department",
+        "School Name": "Washburn School",
+        "Address": "Washburn School, Auburn, Maine",
+        "Dist.Code": "1007",
+        "Enroll": "270",
+        "Free": "199",
+        "% Free": "73.7",
+        "Reduced": "19",
+        "% Reduced": "7.04",
+        "Eligible": "218",
+        "% Eligible": "80.74",
+        "County": "Androscoggin",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.105233,
+          46.793032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Lewiston School Department",
+        "School Name": "Lewiston High School",
+        "Address": "Lewiston High School, Maine",
+        "Dist.Code": "1088",
+        "Enroll": "1324",
+        "Free": "721",
+        "% Free": "54.46",
+        "Reduced": "52",
+        "% Reduced": "3.93",
+        "Eligible": "773",
+        "% Eligible": "58.38",
+        "County": "Androscoggin",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.239485,
+          44.197009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Lewiston School Department",
+        "School Name": "Lewiston Middle School",
+        "Address": "Lewiston Middle School, Maine",
+        "Dist.Code": "1088",
+        "Enroll": "688",
+        "Free": "439",
+        "% Free": "63.81",
+        "Reduced": "31",
+        "% Reduced": "4.51",
+        "Eligible": "470",
+        "% Eligible": "68.31",
+        "County": "Androscoggin",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.239485,
+          44.197009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 52/Msad 52",
+        "School Name": "Greene Central School",
+        "Address": "Greene Central School, Maine",
+        "Dist.Code": "1246",
+        "Enroll": "377",
+        "Free": "122",
+        "% Free": "32.36",
+        "Reduced": "26",
+        "% Reduced": "6.9",
+        "Eligible": "148",
+        "% Eligible": "39.26",
+        "County": "Androscoggin",
+        "Accuracy Score": "0.53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.246713,
+          44.951451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 73",
+        "School Name": "Livermore Elementary School",
+        "Address": "Livermore Elementary School, Livermore, Maine",
+        "Dist.Code": "3198",
+        "Enroll": "466",
+        "Free": "273",
+        "% Free": "58.58",
+        "Reduced": "33",
+        "% Reduced": "7.08",
+        "Eligible": "306",
+        "% Eligible": "65.67",
+        "County": "Androscoggin",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.18078,
+          44.47228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Madawaska School Department",
+        "School Name": "Madawaska Elementary School",
+        "Address": "Madawaska Elementary School, Maine",
+        "Dist.Code": "1097",
+        "Enroll": "240",
+        "Free": "90",
+        "% Free": "37.5",
+        "Reduced": "17",
+        "% Reduced": "7.08",
+        "Eligible": "107",
+        "% Eligible": "44.58",
+        "County": "Aroostook",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.33099,
+          47.34286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Madawaska School Department",
+        "School Name": "Madawaska Middle/High School",
+        "Address": "Madawaska Middle/High School, Maine",
+        "Dist.Code": "1097",
+        "Enroll": "240",
+        "Free": "69",
+        "% Free": "28.75",
+        "Reduced": "22",
+        "% Reduced": "9.17",
+        "Eligible": "91",
+        "% Eligible": "37.92",
+        "County": "Aroostook",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.33099,
+          47.34286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Msad 27",
+        "School Name": "Eagle Lake Elem/Jr High School",
+        "Address": "Eagle Lake Elem/Jr High School, Maine",
+        "Dist.Code": "1221",
+        "Enroll": "56",
+        "Free": "18",
+        "% Free": "32.14",
+        "Reduced": "3",
+        "% Reduced": "5.36",
+        "Eligible": "21",
+        "% Eligible": "37.5",
+        "County": "Aroostook",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.58616,
+          47.04948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Msad 27",
+        "School Name": "Fort Kent Community High School",
+        "Address": "Fort Kent Community High School, Maine",
+        "Dist.Code": "1221",
+        "Enroll": "336",
+        "Free": "188",
+        "% Free": "55.95",
+        "Reduced": "44",
+        "% Reduced": "13.1",
+        "Eligible": "232",
+        "% Eligible": "69.05",
+        "County": "Aroostook",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.58101,
+          47.26484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Msad 27",
+        "School Name": "Fort Kent Elementary School",
+        "Address": "Fort Kent Elementary School, Maine",
+        "Dist.Code": "1221",
+        "Enroll": "376",
+        "Free": "174",
+        "% Free": "46.28",
+        "Reduced": "23",
+        "% Reduced": "6.12",
+        "Eligible": "197",
+        "% Eligible": "52.39",
+        "County": "Aroostook",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.58101,
+          47.26484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Msad 27",
+        "School Name": "Wallagrass Elementary School",
+        "Address": "Wallagrass Elementary School, Wallagrass, Maine",
+        "Dist.Code": "1221",
+        "Enroll": "72",
+        "Free": "38",
+        "% Free": "52.78",
+        "Reduced": "8",
+        "% Reduced": "11.11",
+        "Eligible": "46",
+        "% Eligible": "63.89",
+        "County": "Aroostook",
+        "Accuracy Score": "0.53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.597268,
+          47.129484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "New Sweden School Department",
+        "School Name": "New Sweden Consolidated School",
+        "Address": "New Sweden Consolidated School, Maine",
+        "Dist.Code": "1116",
+        "Enroll": "64",
+        "Free": "35",
+        "% Free": "54.69",
+        "Reduced": "11",
+        "% Reduced": "17.19",
+        "Eligible": "46",
+        "% Eligible": "71.88",
+        "County": "Aroostook",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.12059,
+          46.94171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 29/Msad 29",
+        "School Name": "Wellington School",
+        "Address": "Wellington School, Maine",
+        "Dist.Code": "1223",
+        "Enroll": "67",
+        "Free": "46",
+        "% Free": "68.66",
+        "Reduced": "4",
+        "% Reduced": "5.97",
+        "Eligible": "50",
+        "% Eligible": "74.63",
+        "County": "Aroostook",
+        "Accuracy Score": "0.6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.597273,
+          45.039778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 32/Msad 32",
+        "School Name": "Ashland District School",
+        "Address": "Ashland District School, Ashland, Maine",
+        "Dist.Code": "1226",
+        "Enroll": "316",
+        "Free": "145",
+        "% Free": "45.89",
+        "Reduced": "34",
+        "% Reduced": "10.76",
+        "Eligible": "179",
+        "% Eligible": "56.65",
+        "County": "Aroostook",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.40615,
+          46.63115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 39",
+        "School Name": "Limestone Community School",
+        "Address": "Limestone Community School, Limestone, Maine",
+        "Dist.Code": "3174",
+        "Enroll": "263",
+        "Free": "183",
+        "% Free": "69.58",
+        "Reduced": "18",
+        "% Reduced": "6.84",
+        "Eligible": "201",
+        "% Eligible": "76.43",
+        "County": "Aroostook",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.9643,
+          46.892918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 42/Msad 42",
+        "School Name": "Central Aroostook Jr-Sr H S",
+        "Address": "Central Aroostook Jr-Sr H S, Maine",
+        "Dist.Code": "1236",
+        "Enroll": "202",
+        "Free": "65",
+        "% Free": "32.18",
+        "Reduced": "21",
+        "% Reduced": "10.4",
+        "Eligible": "86",
+        "% Eligible": "42.57",
+        "County": "Aroostook",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.891727,
+          44.180965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 45/Msad 45",
+        "School Name": "Washburn District Elem School",
+        "Address": "Washburn District Elem School, Maine",
+        "Dist.Code": "1239",
+        "Enroll": "267",
+        "Free": "150",
+        "% Free": "56.18",
+        "Reduced": "23",
+        "% Reduced": "8.61",
+        "Eligible": "173",
+        "% Eligible": "64.79",
+        "County": "Aroostook",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.105233,
+          46.793032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 45/Msad 45",
+        "School Name": "Washburn District High School",
+        "Address": "Washburn District High School, Maine",
+        "Dist.Code": "1239",
+        "Enroll": "126",
+        "Free": "49",
+        "% Free": "38.89",
+        "Reduced": "13",
+        "% Reduced": "10.32",
+        "Eligible": "62",
+        "% Eligible": "49.21",
+        "County": "Aroostook",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.105233,
+          46.793032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 79/Msad 01",
+        "School Name": "Mapleton Elementary School",
+        "Address": "Mapleton Elementary School, Maine",
+        "Dist.Code": "1196",
+        "Enroll": "203",
+        "Free": "68",
+        "% Free": "33.5",
+        "Reduced": "6",
+        "% Reduced": "2.96",
+        "Eligible": "74",
+        "% Eligible": "36.45",
+        "County": "Aroostook",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.16281,
+          46.68199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 79/Msad 01",
+        "School Name": "Presque Isle High School",
+        "Address": "Presque Isle High School, Maine",
+        "Dist.Code": "1196",
+        "Enroll": "550",
+        "Free": "182",
+        "% Free": "33.09",
+        "Reduced": "54",
+        "% Reduced": "9.82",
+        "Eligible": "236",
+        "% Eligible": "42.91",
+        "County": "Aroostook",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.012557,
+          46.715072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 79/Msad 01",
+        "School Name": "Presque Isle Middle School",
+        "Address": "Presque Isle Middle School, Maine",
+        "Dist.Code": "1196",
+        "Enroll": "434",
+        "Free": "169",
+        "% Free": "38.94",
+        "Reduced": "53",
+        "% Reduced": "12.21",
+        "Eligible": "222",
+        "% Eligible": "51.15",
+        "County": "Aroostook",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.012557,
+          46.715072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 86/Msad 20",
+        "School Name": "Fort Fairfield Elementary School",
+        "Address": "Fort Fairfield Elementary School, Maine",
+        "Dist.Code": "1214",
+        "Enroll": "259",
+        "Free": "155",
+        "% Free": "59.85",
+        "Reduced": "21",
+        "% Reduced": "8.11",
+        "Eligible": "176",
+        "% Eligible": "67.95",
+        "County": "Aroostook",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.841507,
+          46.746453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 86/Msad 20",
+        "School Name": "Fort Fairfield Middle/High School",
+        "Address": "Fort Fairfield Middle/High School, Maine",
+        "Dist.Code": "1214",
+        "Enroll": "271",
+        "Free": "130",
+        "% Free": "47.97",
+        "Reduced": "27",
+        "% Reduced": "9.96",
+        "Eligible": "157",
+        "% Eligible": "57.93",
+        "County": "Aroostook",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.841507,
+          46.746453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 88/Msad 24",
+        "School Name": "Van Buren District Secondary Sch",
+        "Address": "Van Buren District Secondary Sch, Maine",
+        "Dist.Code": "1218",
+        "Enroll": "95",
+        "Free": "49",
+        "% Free": "51.58",
+        "Reduced": "5",
+        "% Reduced": "5.26",
+        "Eligible": "54",
+        "% Eligible": "56.84",
+        "County": "Aroostook",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.95308,
+          47.16608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 88/Msad 24",
+        "School Name": "Van Buren Elementary School",
+        "Address": "Van Buren Elementary School, Maine",
+        "Dist.Code": "1218",
+        "Enroll": "217",
+        "Free": "142",
+        "% Free": "65.44",
+        "Reduced": "13",
+        "% Reduced": "5.99",
+        "Eligible": "155",
+        "% Eligible": "71.43",
+        "County": "Aroostook",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.95308,
+          47.16608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Woodland School Department",
+        "School Name": "Woodland Consolidated Sch",
+        "Address": "Woodland Consolidated Sch, Maine",
+        "Dist.Code": "1187",
+        "Enroll": "134",
+        "Free": "65",
+        "% Free": "48.51",
+        "Reduced": "12",
+        "% Reduced": "8.96",
+        "Eligible": "77",
+        "% Eligible": "57.46",
+        "County": "Aroostook",
+        "Accuracy Score": "0.6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.404717,
+          45.157019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Brunswick School Department",
+        "School Name": "Brunswick High School",
+        "Address": "Brunswick High School, Maine",
+        "Dist.Code": "1026",
+        "Enroll": "846",
+        "Free": "191",
+        "% Free": "22.58",
+        "Reduced": "56",
+        "% Reduced": "6.62",
+        "Eligible": "247",
+        "% Eligible": "29.2",
+        "County": "Cumberland",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9405,
+          43.91172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Brunswick School Department",
+        "School Name": "Brunswick Jr High School",
+        "Address": "Brunswick Jr High School, Maine",
+        "Dist.Code": "1026",
+        "Enroll": "501",
+        "Free": "134",
+        "% Free": "26.75",
+        "Reduced": "30",
+        "% Reduced": "5.99",
+        "Eligible": "164",
+        "% Eligible": "32.73",
+        "County": "Cumberland",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9405,
+          43.91172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Cape Elizabeth School Department",
+        "School Name": "Cape Elizabeth High School",
+        "Address": "Cape Elizabeth High School, Maine",
+        "Dist.Code": "1029",
+        "Enroll": "554",
+        "Free": "43",
+        "% Free": "7.76",
+        "Reduced": "6",
+        "% Reduced": "1.08",
+        "Eligible": "49",
+        "% Eligible": "8.84",
+        "County": "Cumberland",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.239559,
+          43.595512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Cape Elizabeth School Department",
+        "School Name": "Cape Elizabeth Middle School",
+        "Address": "Cape Elizabeth Middle School, Maine",
+        "Dist.Code": "1029",
+        "Enroll": "546",
+        "Free": "34",
+        "% Free": "6.23",
+        "Reduced": "7",
+        "% Reduced": "1.28",
+        "Eligible": "41",
+        "% Eligible": "7.51",
+        "County": "Cumberland",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.239559,
+          43.595512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Cape Elizabeth School Department",
+        "School Name": "Pond Cove Elementary",
+        "Address": "Pond Cove Elementary, Maine",
+        "Dist.Code": "1029",
+        "Enroll": "573",
+        "Free": "32",
+        "% Free": "5.58",
+        "Reduced": "7",
+        "% Reduced": "1.22",
+        "Eligible": "39",
+        "% Eligible": "6.81",
+        "County": "Cumberland",
+        "Accuracy Score": "0.6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.228658,
+          43.596473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Gorham School Department",
+        "School Name": "Great Falls Elementary School",
+        "Address": "Great Falls Elementary School, Maine",
+        "Dist.Code": "1065",
+        "Enroll": "529",
+        "Free": "110",
+        "% Free": "20.79",
+        "Reduced": "7",
+        "% Reduced": "1.32",
+        "Eligible": "117",
+        "% Eligible": "22.12",
+        "County": "Cumberland",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.581212,
+          45.049429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Portland Public Schools",
+        "School Name": "East End Community School",
+        "Address": "East End Community School, Maine",
+        "Dist.Code": "1134",
+        "Enroll": "428",
+        "Free": "317",
+        "% Free": "74.07",
+        "Reduced": "11",
+        "% Reduced": "2.57",
+        "Eligible": "328",
+        "% Eligible": "76.64",
+        "County": "Cumberland",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.71479,
+          44.61617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Portland Public Schools",
+        "School Name": "Lincoln Middle School",
+        "Address": "Lincoln Middle School, Maine",
+        "Dist.Code": "1134",
+        "Enroll": "481",
+        "Free": "224",
+        "% Free": "46.57",
+        "Reduced": "21",
+        "% Reduced": "4.37",
+        "Eligible": "245",
+        "% Eligible": "50.94",
+        "County": "Cumberland",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.149559,
+          44.478694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Portland Public Schools",
+        "School Name": "Peaks Island School",
+        "Address": "Peaks Island School, Maine",
+        "Dist.Code": "1134",
+        "Enroll": "52",
+        "Free": "5",
+        "% Free": "9.62",
+        "Reduced": "6",
+        "% Reduced": "11.54",
+        "Eligible": "11",
+        "% Eligible": "21.15",
+        "County": "Cumberland",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.188442,
+          43.662809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Portland Public Schools",
+        "School Name": "Portland High School",
+        "Address": "Portland High School, Maine",
+        "Dist.Code": "1134",
+        "Enroll": "878",
+        "Free": "422",
+        "% Free": "48.06",
+        "Reduced": "34",
+        "% Reduced": "3.87",
+        "Eligible": "456",
+        "% Eligible": "51.94",
+        "County": "Cumberland",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.262393,
+          43.658784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 05",
+        "School Name": "Freeport High School",
+        "Address": "Freeport High School, Maine",
+        "Dist.Code": "3158",
+        "Enroll": "516",
+        "Free": "73",
+        "% Free": "14.15",
+        "Reduced": "27",
+        "% Reduced": "5.23",
+        "Eligible": "100",
+        "% Eligible": "19.38",
+        "County": "Cumberland",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.470703,
+          44.408078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 05",
+        "School Name": "Freeport Middle School",
+        "Address": "Freeport Middle School, Maine",
+        "Dist.Code": "3158",
+        "Enroll": "300",
+        "Free": "57",
+        "% Free": "19",
+        "Reduced": "11",
+        "% Reduced": "3.67",
+        "Eligible": "68",
+        "% Eligible": "22.67",
+        "County": "Cumberland",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.470703,
+          44.408078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 05",
+        "School Name": "Mast Landing School",
+        "Address": "Mast Landing School, Maine",
+        "Dist.Code": "3158",
+        "Enroll": "273",
+        "Free": "65",
+        "% Free": "23.81",
+        "Reduced": "5",
+        "% Reduced": "1.83",
+        "Eligible": "70",
+        "% Eligible": "25.64",
+        "County": "Cumberland",
+        "Accuracy Score": "0.53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.083661,
+          43.85758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 06/ Msad 06",
+        "School Name": "Steep Falls Elementary School",
+        "Address": "Steep Falls Elementary School, Maine",
+        "Dist.Code": "1200",
+        "Enroll": "118",
+        "Free": "40",
+        "% Free": "33.9",
+        "Reduced": "8",
+        "% Reduced": "6.78",
+        "Eligible": "48",
+        "% Eligible": "40.68",
+        "County": "Cumberland",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.639561,
+          43.771934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 14 Raymond/Windham",
+        "School Name": "Manchester School",
+        "Address": "Manchester School, Maine",
+        "Dist.Code": "3162",
+        "Enroll": "401",
+        "Free": "125",
+        "% Free": "31.17",
+        "Reduced": "34",
+        "% Reduced": "8.48",
+        "Eligible": "159",
+        "% Eligible": "39.65",
+        "County": "Cumberland",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.867001,
+          44.358014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 14 Raymond/Windham",
+        "School Name": "Windham High School",
+        "Address": "Windham High School, Maine",
+        "Dist.Code": "3162",
+        "Enroll": "1035",
+        "Free": "293",
+        "% Free": "28.31",
+        "Reduced": "80",
+        "% Reduced": "7.73",
+        "Eligible": "373",
+        "% Eligible": "36.04",
+        "County": "Cumberland",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.405329,
+          43.794689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 14 Raymond/Windham",
+        "School Name": "Windham Middle School",
+        "Address": "Windham Middle School, Maine",
+        "Dist.Code": "3162",
+        "Enroll": "600",
+        "Free": "166",
+        "% Free": "27.67",
+        "Reduced": "47",
+        "% Reduced": "7.83",
+        "Eligible": "213",
+        "% Eligible": "35.5",
+        "County": "Cumberland",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.405329,
+          43.794689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 14 Raymond/Windham",
+        "School Name": "Windham Primary School",
+        "Address": "Windham Primary School, Maine",
+        "Dist.Code": "3162",
+        "Enroll": "819",
+        "Free": "260",
+        "% Free": "31.75",
+        "Reduced": "39",
+        "% Reduced": "4.76",
+        "Eligible": "299",
+        "% Eligible": "36.51",
+        "County": "Cumberland",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.405329,
+          43.794689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 51/Msad 51",
+        "School Name": "North Yarmouth Memorial School",
+        "Address": "North Yarmouth Memorial School, Maine",
+        "Dist.Code": "1245",
+        "Enroll": "325",
+        "Free": "32",
+        "% Free": "9.85",
+        "Reduced": "4",
+        "% Reduced": "1.23",
+        "Eligible": "36",
+        "% Eligible": "11.08",
+        "County": "Cumberland",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.200114,
+          43.837951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 61/Msad 61",
+        "School Name": "Songo Locks School",
+        "Address": "Songo Locks School, Maine",
+        "Dist.Code": "1255",
+        "Enroll": "463",
+        "Free": "194",
+        "% Free": "41.9",
+        "Reduced": "44",
+        "% Reduced": "9.5",
+        "Eligible": "238",
+        "% Eligible": "51.4",
+        "County": "Cumberland",
+        "Accuracy Score": "0.53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.639298,
+          43.975769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 61/Msad 61",
+        "School Name": "Stevens Brook School",
+        "Address": "Stevens Brook School, Maine",
+        "Dist.Code": "1255",
+        "Enroll": "298",
+        "Free": "167",
+        "% Free": "56.04",
+        "Reduced": "20",
+        "% Reduced": "6.71",
+        "Eligible": "187",
+        "% Eligible": "62.75",
+        "County": "Cumberland",
+        "Accuracy Score": "0.53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9945,
+          43.613563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 75/Msad 75",
+        "School Name": "Harpswell Islands School",
+        "Address": "Harpswell Islands School, Maine",
+        "Dist.Code": "1266",
+        "Enroll": "166",
+        "Free": "61",
+        "% Free": "36.75",
+        "Reduced": "14",
+        "% Reduced": "8.43",
+        "Eligible": "75",
+        "% Eligible": "45.18",
+        "County": "Cumberland",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.995537,
+          43.78105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Scarborough School Department",
+        "School Name": "Blue Point School",
+        "Address": "Blue Point School, Maine",
+        "Dist.Code": "1149",
+        "Enroll": "232",
+        "Free": "34",
+        "% Free": "14.66",
+        "Reduced": "5",
+        "% Reduced": "2.16",
+        "Eligible": "39",
+        "% Eligible": "16.81",
+        "County": "Cumberland",
+        "Accuracy Score": "0.53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.356438,
+          43.552306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Scarborough School Department",
+        "School Name": "Pleasant Hill School",
+        "Address": "Pleasant Hill School, Maine",
+        "Dist.Code": "1149",
+        "Enroll": "166",
+        "Free": "18",
+        "% Free": "10.84",
+        "Reduced": "3",
+        "% Reduced": "1.81",
+        "Eligible": "21",
+        "% Eligible": "12.65",
+        "County": "Cumberland",
+        "Accuracy Score": "0.53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.941728,
+          45.25672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Scarborough School Department",
+        "School Name": "Scarborough High School",
+        "Address": "Scarborough High School, Maine",
+        "Dist.Code": "1149",
+        "Enroll": "1043",
+        "Free": "115",
+        "% Free": "11.03",
+        "Reduced": "41",
+        "% Reduced": "3.93",
+        "Eligible": "156",
+        "% Eligible": "14.96",
+        "County": "Cumberland",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.366191,
+          43.589627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Scarborough School Department",
+        "School Name": "Scarborough Middle School",
+        "Address": "Scarborough Middle School, Maine",
+        "Dist.Code": "1149",
+        "Enroll": "790",
+        "Free": "115",
+        "% Free": "14.56",
+        "Reduced": "39",
+        "% Reduced": "4.94",
+        "Eligible": "154",
+        "% Eligible": "19.49",
+        "County": "Cumberland",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.366191,
+          43.589627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "South Portland School Department",
+        "School Name": "South Portland High School",
+        "Address": "South Portland High School, South Portland, Maine",
+        "Dist.Code": "1155",
+        "Enroll": "852",
+        "Free": "263",
+        "% Free": "30.87",
+        "Reduced": "46",
+        "% Reduced": "5.4",
+        "Eligible": "309",
+        "% Eligible": "36.27",
+        "County": "Cumberland",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.65866,
+          43.84092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Westbrook School Department",
+        "School Name": "Westbrook High School",
+        "Address": "Westbrook High School, Westbrook, Maine",
+        "Dist.Code": "1175",
+        "Enroll": "701",
+        "Free": "300",
+        "% Free": "42.8",
+        "Reduced": "52",
+        "% Reduced": "7.42",
+        "Eligible": "352",
+        "% Eligible": "50.21",
+        "County": "Cumberland",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.352614,
+          43.707947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Westbrook School Department",
+        "School Name": "Westbrook Middle School",
+        "Address": "Westbrook Middle School, Maine",
+        "Dist.Code": "1175",
+        "Enroll": "770",
+        "Free": "385",
+        "% Free": "50",
+        "Reduced": "66",
+        "% Reduced": "8.57",
+        "Eligible": "451",
+        "% Eligible": "58.57",
+        "County": "Cumberland",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.352614,
+          43.707947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Eustis Public Schools",
+        "School Name": "Stratton Elementary School",
+        "Address": "Stratton Elementary School, Maine",
+        "Dist.Code": "3229",
+        "Enroll": "74",
+        "Free": "36",
+        "% Free": "48.65",
+        "Reduced": "7",
+        "% Reduced": "9.46",
+        "Eligible": "43",
+        "% Eligible": "58.11",
+        "County": "Franklin",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.44062,
+          45.14117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 58/ Msad 58",
+        "School Name": "Kingfield Elementary School",
+        "Address": "Kingfield Elementary School, Maine",
+        "Dist.Code": "1252",
+        "Enroll": "153",
+        "Free": "53",
+        "% Free": "34.64",
+        "Reduced": "17",
+        "% Reduced": "11.11",
+        "Eligible": "70",
+        "% Eligible": "45.75",
+        "County": "Franklin",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.381639,
+          45.063384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 58/ Msad 58",
+        "School Name": "Strong Elementary School",
+        "Address": "Strong Elementary School, Maine",
+        "Dist.Code": "1252",
+        "Enroll": "176",
+        "Free": "84",
+        "% Free": "47.73",
+        "Reduced": "30",
+        "% Reduced": "17.05",
+        "Eligible": "114",
+        "% Eligible": "64.77",
+        "County": "Franklin",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.187221,
+          44.814175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Brooklin School Department",
+        "School Name": "Brooklin School",
+        "Address": "Brooklin School, Maine",
+        "Dist.Code": "1024",
+        "Enroll": "65",
+        "Free": "27",
+        "% Free": "41.54",
+        "Reduced": "4",
+        "% Reduced": "6.15",
+        "Eligible": "31",
+        "% Eligible": "47.69",
+        "County": "Hancock",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.567404,
+          44.258121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Brooksville School Department",
+        "School Name": "Brooksville Elementary School",
+        "Address": "Brooksville Elementary School, Maine",
+        "Dist.Code": "1025",
+        "Enroll": "55",
+        "Free": "14",
+        "% Free": "25.45",
+        "Reduced": "6",
+        "% Reduced": "10.91",
+        "Eligible": "20",
+        "% Eligible": "36.36",
+        "County": "Hancock",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.765568,
+          44.337581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Msad 76",
+        "School Name": "Swans Island Elementary School",
+        "Address": "Swans Island Elementary School, Maine",
+        "Dist.Code": "1267",
+        "Enroll": "36",
+        "Free": "14",
+        "% Free": "38.89",
+        "Reduced": "4",
+        "% Reduced": "11.11",
+        "Eligible": "18",
+        "% Eligible": "50",
+        "County": "Hancock",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.42946,
+          44.15842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Penobscot School Department",
+        "School Name": "Penobscot Elementary School",
+        "Address": "Penobscot Elementary School, Maine",
+        "Dist.Code": "1128",
+        "Enroll": "70",
+        "Free": "30",
+        "% Free": "42.86",
+        "Reduced": "8",
+        "% Reduced": "11.43",
+        "Eligible": "38",
+        "% Eligible": "54.29",
+        "County": "Hancock",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.721716,
+          44.433911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 24",
+        "School Name": "Ellsworth Elementary-Middle School",
+        "Address": "Ellsworth Elementary-Middle School, Maine",
+        "Dist.Code": "3169",
+        "Enroll": "830",
+        "Free": "275",
+        "% Free": "33.13",
+        "Reduced": "50",
+        "% Reduced": "6.02",
+        "Eligible": "325",
+        "% Eligible": "39.16",
+        "County": "Hancock",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.356311,
+          44.477935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 24",
+        "School Name": "Ellsworth High School",
+        "Address": "Ellsworth High School, Maine",
+        "Dist.Code": "3169",
+        "Enroll": "554",
+        "Free": "138",
+        "% Free": "24.91",
+        "Reduced": "26",
+        "% Reduced": "4.69",
+        "Eligible": "164",
+        "% Eligible": "29.6",
+        "County": "Hancock",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.356311,
+          44.477935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 24",
+        "School Name": "Hancock Grammar School",
+        "Address": "Hancock Grammar School, Maine",
+        "Dist.Code": "3169",
+        "Enroll": "213",
+        "Free": "84",
+        "% Free": "39.44",
+        "Reduced": "17",
+        "% Reduced": "7.98",
+        "Eligible": "101",
+        "% Eligible": "47.42",
+        "County": "Hancock",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.25363,
+          44.52924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Sedgwick School Department",
+        "School Name": "Sedgwick Elementary School",
+        "Address": "Sedgwick Elementary School, Maine",
+        "Dist.Code": "1150",
+        "Enroll": "97",
+        "Free": "59",
+        "% Free": "60.82",
+        "Reduced": "7",
+        "% Reduced": "7.22",
+        "Eligible": "66",
+        "% Eligible": "68.04",
+        "County": "Hancock",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.701228,
+          44.399111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Trenton School Department",
+        "School Name": "Trenton Elementary School",
+        "Address": "Trenton Elementary School, Maine",
+        "Dist.Code": "1163",
+        "Enroll": "124",
+        "Free": "56",
+        "% Free": "45.16",
+        "Reduced": "18",
+        "% Reduced": "14.52",
+        "Eligible": "74",
+        "% Eligible": "59.68",
+        "County": "Hancock",
+        "Accuracy Score": "0.53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.370018,
+          44.438967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Augusta Public Schools",
+        "School Name": "Lincoln School",
+        "Address": "Lincoln School, Maine",
+        "Dist.Code": "1008",
+        "Enroll": "275",
+        "Free": "191",
+        "% Free": "69.45",
+        "Reduced": "9",
+        "% Reduced": "3.27",
+        "Eligible": "200",
+        "% Eligible": "72.73",
+        "County": "Kennebec",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.149559,
+          44.478694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Becket Family Of Services",
+        "School Name": "Belgrade House",
+        "Address": "Belgrade House, Maine",
+        "Dist.Code": "5027",
+        "Enroll": "12",
+        "Free": "12",
+        "% Free": "100",
+        "Reduced": "0",
+        "% Reduced": "0",
+        "Eligible": "12",
+        "% Eligible": "100",
+        "County": "Kennebec",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.887,
+          44.52645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 11/Msad 11",
+        "School Name": "Gardiner Area High School",
+        "Address": "Gardiner Area High School, Maine",
+        "Dist.Code": "1205",
+        "Enroll": "611",
+        "Free": "194",
+        "% Free": "31.75",
+        "Reduced": "36",
+        "% Reduced": "5.89",
+        "Eligible": "230",
+        "% Eligible": "37.64",
+        "County": "Kennebec",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.77532,
+          44.23007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 11/Msad 11",
+        "School Name": "Gardiner Regional Middle School",
+        "Address": "Gardiner Regional Middle School, Maine",
+        "Dist.Code": "1205",
+        "Enroll": "485",
+        "Free": "187",
+        "% Free": "38.56",
+        "Reduced": "44",
+        "% Reduced": "9.07",
+        "Eligible": "231",
+        "% Eligible": "47.63",
+        "County": "Kennebec",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.77532,
+          44.23007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 11/Msad 11",
+        "School Name": "Pittston Consolidated School",
+        "Address": "Pittston Consolidated School, Maine",
+        "Dist.Code": "1205",
+        "Enroll": "191",
+        "Free": "78",
+        "% Free": "40.84",
+        "Reduced": "24",
+        "% Reduced": "12.57",
+        "Eligible": "102",
+        "% Eligible": "53.4",
+        "County": "Kennebec",
+        "Accuracy Score": "0.53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.7556,
+          44.221737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 12 Sheepscot Valley Regional School Unit",
+        "School Name": "Windsor Elementary School",
+        "Address": "Windsor Elementary School, Maine",
+        "Dist.Code": "3160",
+        "Enroll": "318",
+        "Free": "146",
+        "% Free": "45.91",
+        "Reduced": "31",
+        "% Reduced": "9.75",
+        "Eligible": "177",
+        "% Eligible": "55.66",
+        "County": "Kennebec",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5806,
+          44.31063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 18",
+        "School Name": "Belgrade Central School",
+        "Address": "Belgrade Central School, Maine",
+        "Dist.Code": "3164",
+        "Enroll": "311",
+        "Free": "124",
+        "% Free": "39.87",
+        "Reduced": "19",
+        "% Reduced": "6.11",
+        "Eligible": "143",
+        "% Eligible": "45.98",
+        "County": "Kennebec",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.887,
+          44.52645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 38",
+        "School Name": "Manchester Elementary School",
+        "Address": "Manchester Elementary School, Maine",
+        "Dist.Code": "3173",
+        "Enroll": "189",
+        "Free": "43",
+        "% Free": "22.75",
+        "Reduced": "12",
+        "% Reduced": "6.35",
+        "Eligible": "55",
+        "% Eligible": "29.1",
+        "County": "Kennebec",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.867001,
+          44.358014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 38",
+        "School Name": "Readfield Elementary School",
+        "Address": "Readfield Elementary School, Maine",
+        "Dist.Code": "3173",
+        "Enroll": "177",
+        "Free": "47",
+        "% Free": "26.55",
+        "Reduced": "17",
+        "% Reduced": "9.6",
+        "Eligible": "64",
+        "% Eligible": "36.16",
+        "County": "Kennebec",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.953716,
+          44.38484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 49/Msad 49",
+        "School Name": "Clinton Elementary School",
+        "Address": "Clinton Elementary School, Maine",
+        "Dist.Code": "1243",
+        "Enroll": "258",
+        "Free": "169",
+        "% Free": "65.5",
+        "Reduced": "15",
+        "% Reduced": "5.81",
+        "Eligible": "184",
+        "% Eligible": "71.32",
+        "County": "Kennebec",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.48575,
+          44.6501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Vassalboro School Department",
+        "School Name": "Vassalboro Community School",
+        "Address": "Vassalboro Community School, Maine",
+        "Dist.Code": "1166",
+        "Enroll": "430",
+        "Free": "221",
+        "% Free": "51.4",
+        "Reduced": "29",
+        "% Reduced": "6.74",
+        "Eligible": "250",
+        "% Eligible": "58.14",
+        "County": "Kennebec",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.635908,
+          44.427757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Waterville Public Schools",
+        "School Name": "Waterville Junior High School",
+        "Address": "Waterville Junior High School, Maine",
+        "Dist.Code": "1170",
+        "Enroll": "387",
+        "Free": "223",
+        "% Free": "57.62",
+        "Reduced": "21",
+        "% Reduced": "5.43",
+        "Eligible": "244",
+        "% Eligible": "63.05",
+        "County": "Kennebec",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.713178,
+          44.549225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Waterville Public Schools",
+        "School Name": "Waterville Senior High School",
+        "Address": "Waterville Senior High School, Maine",
+        "Dist.Code": "1170",
+        "Enroll": "603",
+        "Free": "298",
+        "% Free": "49.42",
+        "Reduced": "48",
+        "% Reduced": "7.96",
+        "Eligible": "346",
+        "% Eligible": "57.38",
+        "County": "Kennebec",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.713178,
+          44.549225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Winthrop Public Schools",
+        "School Name": "Winthrop Grade School",
+        "Address": "Winthrop Grade School, Maine",
+        "Dist.Code": "1185",
+        "Enroll": "406",
+        "Free": "177",
+        "% Free": "43.6",
+        "Reduced": "15",
+        "% Reduced": "3.69",
+        "Eligible": "192",
+        "% Eligible": "47.29",
+        "County": "Kennebec",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.957627,
+          44.322865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Winthrop Public Schools",
+        "School Name": "Winthrop High School",
+        "Address": "Winthrop High School, Maine",
+        "Dist.Code": "1185",
+        "Enroll": "233",
+        "Free": "63",
+        "% Free": "27.04",
+        "Reduced": "13",
+        "% Reduced": "5.58",
+        "Eligible": "76",
+        "% Eligible": "32.62",
+        "County": "Kennebec",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.957627,
+          44.322865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Winthrop Public Schools",
+        "School Name": "Winthrop Middle School",
+        "Address": "Winthrop Middle School, Maine",
+        "Dist.Code": "1185",
+        "Enroll": "202",
+        "Free": "59",
+        "% Free": "29.21",
+        "Reduced": "17",
+        "% Reduced": "8.42",
+        "Eligible": "76",
+        "% Eligible": "37.62",
+        "County": "Kennebec",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.957627,
+          44.322865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Appleton School Department",
+        "School Name": "Appleton Village School",
+        "Address": "Appleton Village School, Maine",
+        "Dist.Code": "1004",
+        "Enroll": "142",
+        "Free": "47",
+        "% Free": "33.1",
+        "Reduced": "15",
+        "% Reduced": "10.56",
+        "Eligible": "62",
+        "% Eligible": "43.66",
+        "County": "Knox",
+        "Accuracy Score": "0.53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.250877,
+          44.289243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 08/Msad 08",
+        "School Name": "Vinalhaven School",
+        "Address": "Vinalhaven School, Maine",
+        "Dist.Code": "1202",
+        "Enroll": "178",
+        "Free": "78",
+        "% Free": "43.82",
+        "Reduced": "22",
+        "% Reduced": "12.36",
+        "Eligible": "100",
+        "% Eligible": "56.18",
+        "County": "Knox",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.841965,
+          44.08511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 13",
+        "School Name": "Thomaston Grammar School",
+        "Address": "Thomaston Grammar School, Maine",
+        "Dist.Code": "3161",
+        "Enroll": "130",
+        "Free": "63",
+        "% Free": "48.46",
+        "Reduced": "11",
+        "% Reduced": "8.46",
+        "Eligible": "74",
+        "% Eligible": "56.92",
+        "County": "Knox",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.18015,
+          44.07993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 40/Msad 40",
+        "School Name": "Friendship Village School",
+        "Address": "Friendship Village School, Maine",
+        "Dist.Code": "1234",
+        "Enroll": "97",
+        "Free": "38",
+        "% Free": "39.18",
+        "Reduced": "11",
+        "% Reduced": "11.34",
+        "Eligible": "49",
+        "% Eligible": "50.52",
+        "County": "Knox",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.33394,
+          43.98369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Aos 93 Central Lincoln County School System",
+        "School Name": "Bristol Consolidated School",
+        "Address": "Bristol Consolidated School, Maine",
+        "Dist.Code": "3178",
+        "Enroll": "169",
+        "Free": "61",
+        "% Free": "36.09",
+        "Reduced": "12",
+        "% Reduced": "7.1",
+        "Eligible": "73",
+        "% Eligible": "43.2",
+        "County": "Lincoln",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.50921,
+          43.95758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Aos 93 Central Lincoln County School System",
+        "School Name": "Jefferson Village School",
+        "Address": "Jefferson Village School, Maine",
+        "Dist.Code": "3178",
+        "Enroll": "187",
+        "Free": "80",
+        "% Free": "42.78",
+        "Reduced": "19",
+        "% Reduced": "10.16",
+        "Eligible": "99",
+        "% Eligible": "52.94",
+        "County": "Lincoln",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.513293,
+          44.220432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Aos 93 Central Lincoln County School System",
+        "School Name": "Nobleboro Central School",
+        "Address": "Nobleboro Central School, Maine",
+        "Dist.Code": "3178",
+        "Enroll": "135",
+        "Free": "54",
+        "% Free": "40",
+        "Reduced": "11",
+        "% Reduced": "8.15",
+        "Eligible": "65",
+        "% Eligible": "48.15",
+        "County": "Lincoln",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.48505,
+          44.07952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Aos 93 Central Lincoln County School System",
+        "School Name": "South Bristol Elementary School",
+        "Address": "South Bristol Elementary School, Maine",
+        "Dist.Code": "3178",
+        "Enroll": "63",
+        "Free": "26",
+        "% Free": "41.27",
+        "Reduced": "5",
+        "% Reduced": "7.94",
+        "Eligible": "31",
+        "% Eligible": "49.21",
+        "County": "Lincoln",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.56116,
+          43.86397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Lincoln Academy",
+        "School Name": "Lincoln Academy",
+        "Address": "Lincoln Academy, Maine",
+        "Dist.Code": "1364",
+        "Enroll": "512",
+        "Free": "114",
+        "% Free": "22.27",
+        "Reduced": "25",
+        "% Reduced": "4.88",
+        "Eligible": "139",
+        "% Eligible": "27.15",
+        "County": "Lincoln",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.149559,
+          44.478694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 02 Kennebec Intra-District",
+        "School Name": "Dresden Elementary School",
+        "Address": "Dresden Elementary School, Maine",
+        "Dist.Code": "3156",
+        "Enroll": "90",
+        "Free": "44",
+        "% Free": "48.89",
+        "Reduced": "2",
+        "% Reduced": "2.22",
+        "Eligible": "46",
+        "% Eligible": "51.11",
+        "County": "Lincoln",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.738418,
+          44.077448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 12 Sheepscot Valley Regional School Unit",
+        "School Name": "Whitefield Elementary School",
+        "Address": "Whitefield Elementary School, Maine",
+        "Dist.Code": "3160",
+        "Enroll": "184",
+        "Free": "84",
+        "% Free": "45.65",
+        "Reduced": "13",
+        "% Reduced": "7.07",
+        "Eligible": "97",
+        "% Eligible": "52.72",
+        "County": "Lincoln",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.575119,
+          44.188406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 12 Sheepscot Valley Regional School Unit",
+        "School Name": "Wiscasset High School",
+        "Address": "Wiscasset High School, Maine",
+        "Dist.Code": "3160",
+        "Enroll": "209",
+        "Free": "77",
+        "% Free": "36.84",
+        "Reduced": "14",
+        "% Reduced": "6.7",
+        "Eligible": "91",
+        "% Eligible": "43.54",
+        "County": "Lincoln",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.67336,
+          44.01151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 12 Sheepscot Valley Regional School Unit",
+        "School Name": "Wiscasset Middle School",
+        "Address": "Wiscasset Middle School, Maine",
+        "Dist.Code": "3160",
+        "Enroll": "174",
+        "Free": "73",
+        "% Free": "41.95",
+        "Reduced": "9",
+        "% Reduced": "5.17",
+        "Eligible": "82",
+        "% Eligible": "47.13",
+        "County": "Lincoln",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.67336,
+          44.01151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 12 Sheepscot Valley Regional School Unit",
+        "School Name": "Wiscasset Primary School",
+        "Address": "Wiscasset Primary School, Maine",
+        "Dist.Code": "3160",
+        "Enroll": "206",
+        "Free": "93",
+        "% Free": "45.15",
+        "Reduced": "10",
+        "% Reduced": "4.85",
+        "Eligible": "103",
+        "% Eligible": "50",
+        "County": "Lincoln",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.67336,
+          44.01151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Southport School Department",
+        "School Name": "Southport Central School",
+        "Address": "Southport Central School, Maine",
+        "Dist.Code": "1154",
+        "Enroll": "22",
+        "Free": "7",
+        "% Free": "31.82",
+        "Reduced": "0",
+        "% Reduced": "0",
+        "Eligible": "7",
+        "% Eligible": "31.82",
+        "County": "Lincoln",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.65866,
+          43.84092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Fryeburg Academy",
+        "School Name": "Fryeburg Academy",
+        "Address": "Fryeburg Academy, Maine",
+        "Dist.Code": "1348",
+        "Enroll": "579",
+        "Free": "108",
+        "% Free": "18.65",
+        "Reduced": "38",
+        "% Reduced": "6.56",
+        "Eligible": "146",
+        "% Eligible": "25.22",
+        "County": "Oxford",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.964418,
+          44.044292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 10 Western Foothills",
+        "School Name": "Hartford-Sumner Elementary School",
+        "Address": "Hartford-Sumner Elementary School, Maine",
+        "Dist.Code": "3159",
+        "Enroll": "313",
+        "Free": "175",
+        "% Free": "55.91",
+        "Reduced": "36",
+        "% Reduced": "11.5",
+        "Eligible": "211",
+        "% Eligible": "67.41",
+        "County": "Oxford",
+        "Accuracy Score": "0.53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.300563,
+          44.462329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 10 Western Foothills",
+        "School Name": "Rumford Elementary",
+        "Address": "Rumford Elementary, Maine",
+        "Dist.Code": "3159",
+        "Enroll": "316",
+        "Free": "234",
+        "% Free": "74.05",
+        "Reduced": "17",
+        "% Reduced": "5.38",
+        "Eligible": "251",
+        "% Eligible": "79.43",
+        "County": "Oxford",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.568041,
+          44.377031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 17/Msad 17",
+        "School Name": "Waterford Memorial School",
+        "Address": "Waterford Memorial School, Maine",
+        "Dist.Code": "1211",
+        "Enroll": "125",
+        "Free": "77",
+        "% Free": "61.6",
+        "Reduced": "9",
+        "% Reduced": "7.2",
+        "Eligible": "86",
+        "% Eligible": "68.8",
+        "County": "Oxford",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.722362,
+          44.202833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 44 / Msad 44",
+        "School Name": "Andover Elementary School",
+        "Address": "Andover Elementary School, Maine",
+        "Dist.Code": "1238",
+        "Enroll": "31",
+        "Free": "18",
+        "% Free": "58.06",
+        "Reduced": "0",
+        "% Reduced": "0",
+        "Eligible": "18",
+        "% Eligible": "58.06",
+        "County": "Oxford",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.75118,
+          44.63562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 44 / Msad 44",
+        "School Name": "Crescent Park School",
+        "Address": "Crescent Park School, Maine",
+        "Dist.Code": "1238",
+        "Enroll": "241",
+        "Free": "104",
+        "% Free": "43.15",
+        "Reduced": "17",
+        "% Reduced": "7.05",
+        "Eligible": "121",
+        "% Eligible": "50.21",
+        "County": "Oxford",
+        "Accuracy Score": "0.53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.477001,
+          43.986184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 72 / Msad 72",
+        "School Name": "Denmark Elementary School",
+        "Address": "Denmark Elementary School, Maine",
+        "Dist.Code": "1264",
+        "Enroll": "99",
+        "Free": "33",
+        "% Free": "33.33",
+        "Reduced": "7",
+        "% Reduced": "7.07",
+        "Eligible": "40",
+        "% Eligible": "40.4",
+        "County": "Oxford",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8034,
+          43.97035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Bangor School Department",
+        "School Name": "Fairmount School",
+        "Address": "Fairmount School, Maine",
+        "Dist.Code": "1011",
+        "Enroll": "269",
+        "Free": "170",
+        "% Free": "63.2",
+        "Reduced": "20",
+        "% Reduced": "7.43",
+        "Eligible": "190",
+        "% Eligible": "70.63",
+        "County": "Penobscot",
+        "Accuracy Score": "0.53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.867523,
+          46.696432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Glenburn Public Schools",
+        "School Name": "Glenburn Elementary School",
+        "Address": "Glenburn Elementary School, Maine",
+        "Dist.Code": "1063",
+        "Enroll": "479",
+        "Free": "133",
+        "% Free": "27.77",
+        "Reduced": "40",
+        "% Reduced": "8.35",
+        "Eligible": "173",
+        "% Eligible": "36.12",
+        "County": "Penobscot",
+        "Accuracy Score": "0.53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.847259,
+          44.910624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Indian Island",
+        "School Name": "Indian Island School",
+        "Address": "Indian Island School, Maine",
+        "Dist.Code": "1270",
+        "Enroll": "115",
+        "Free": "64",
+        "% Free": "55.65",
+        "Reduced": "35",
+        "% Reduced": "30.43",
+        "Eligible": "99",
+        "% Eligible": "86.09",
+        "County": "Penobscot",
+        "Accuracy Score": "0.53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.722962,
+          45.040655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Indian Township",
+        "School Name": "Peter Dana School",
+        "Address": "Peter Dana School, Maine",
+        "Dist.Code": "1271",
+        "Enroll": "145",
+        "Free": "97",
+        "% Free": "66.9",
+        "Reduced": "14",
+        "% Reduced": "9.66",
+        "Eligible": "111",
+        "% Eligible": "76.55",
+        "County": "Penobscot",
+        "Accuracy Score": "0.53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.629999,
+          45.211739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Kingman School",
+        "School Name": "Kingman Elementary School",
+        "Address": "Kingman Elementary School, Maine",
+        "Dist.Code": "5604",
+        "Enroll": "24",
+        "Free": "22",
+        "% Free": "91.67",
+        "Reduced": "1",
+        "% Reduced": "4.17",
+        "Eligible": "23",
+        "% Eligible": "95.83",
+        "County": "Penobscot",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.19946,
+          45.54951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Millinocket School Department",
+        "School Name": "Granite Street School",
+        "Address": "Granite Street School, Maine",
+        "Dist.Code": "1107",
+        "Enroll": "270",
+        "Free": "162",
+        "% Free": "60",
+        "Reduced": "15",
+        "% Reduced": "5.56",
+        "Eligible": "177",
+        "% Eligible": "65.56",
+        "County": "Penobscot",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.15198,
+          47.30532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "No Penobscot Tech Center",
+        "School Name": "Northern Penobsct Tech Center",
+        "Address": "Northern Penobsct Tech Center, Maine",
+        "Dist.Code": "1276",
+        "Enroll": "200",
+        "Free": "98",
+        "% Free": "49",
+        "Reduced": "21",
+        "% Reduced": "10.5",
+        "Eligible": "119",
+        "% Eligible": "59.5",
+        "County": "Penobscot",
+        "Accuracy Score": "0.53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.806704,
+          44.748405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 19",
+        "School Name": "Newport Elementary School",
+        "Address": "Newport Elementary School, Maine",
+        "Dist.Code": "3165",
+        "Enroll": "297",
+        "Free": "149",
+        "% Free": "50.17",
+        "Reduced": "22",
+        "% Reduced": "7.41",
+        "Eligible": "171",
+        "% Eligible": "57.58",
+        "County": "Penobscot",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.909773,
+          45.575731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 22/Msad 22",
+        "School Name": "Hampden Academy",
+        "Address": "Hampden Academy, Maine",
+        "Dist.Code": "1216",
+        "Enroll": "699",
+        "Free": "135",
+        "% Free": "19.31",
+        "Reduced": "37",
+        "% Reduced": "5.29",
+        "Eligible": "172",
+        "% Eligible": "24.61",
+        "County": "Penobscot",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.83599,
+          44.74794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 31/Msad 31",
+        "School Name": "Enfield Station Elementary School",
+        "Address": "Enfield Station Elementary School, Maine",
+        "Dist.Code": "1225",
+        "Enroll": "259",
+        "Free": "140",
+        "% Free": "54.05",
+        "Reduced": "38",
+        "% Reduced": "14.67",
+        "Eligible": "178",
+        "% Eligible": "68.73",
+        "County": "Penobscot",
+        "Accuracy Score": "0.6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.568358,
+          45.248945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 31/Msad 31",
+        "School Name": "Penobscot Valley High School",
+        "Address": "Penobscot Valley High School, Maine",
+        "Dist.Code": "1225",
+        "Enroll": "166",
+        "Free": "76",
+        "% Free": "45.78",
+        "Reduced": "30",
+        "% Reduced": "18.07",
+        "Eligible": "106",
+        "% Eligible": "63.86",
+        "County": "Penobscot",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.721716,
+          44.433911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 34 Old Town/ Alton/ Bradley",
+        "School Name": "Old Town Elementary School",
+        "Address": "Old Town Elementary School, Maine",
+        "Dist.Code": "3172",
+        "Enroll": "562",
+        "Free": "244",
+        "% Free": "43.42",
+        "Reduced": "45",
+        "% Reduced": "8.01",
+        "Eligible": "289",
+        "% Eligible": "51.42",
+        "County": "Penobscot",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.722962,
+          45.040655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 34 Old Town/ Alton/ Bradley",
+        "School Name": "Old Town High School",
+        "Address": "Old Town High School, Maine",
+        "Dist.Code": "3172",
+        "Enroll": "492",
+        "Free": "195",
+        "% Free": "39.63",
+        "Reduced": "33",
+        "% Reduced": "6.71",
+        "Eligible": "228",
+        "% Eligible": "46.34",
+        "County": "Penobscot",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.722962,
+          45.040655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 63/Msad 63",
+        "School Name": "Eddington School",
+        "Address": "Eddington School, Maine",
+        "Dist.Code": "1257",
+        "Enroll": "187",
+        "Free": "64",
+        "% Free": "34.22",
+        "Reduced": "12",
+        "% Reduced": "6.42",
+        "Eligible": "76",
+        "% Eligible": "40.64",
+        "County": "Penobscot",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.577728,
+          44.79169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 64/Msad 64",
+        "School Name": "Bradford Elementary School",
+        "Address": "Bradford Elementary School, Maine",
+        "Dist.Code": "1258",
+        "Enroll": "102",
+        "Free": "57",
+        "% Free": "55.88",
+        "Reduced": "11",
+        "% Reduced": "10.78",
+        "Eligible": "68",
+        "% Eligible": "66.67",
+        "County": "Penobscot",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.95432,
+          45.058864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 64/Msad 64",
+        "School Name": "Central High School",
+        "Address": "Central High School, Maine",
+        "Dist.Code": "1258",
+        "Enroll": "376",
+        "Free": "137",
+        "% Free": "36.44",
+        "Reduced": "48",
+        "% Reduced": "12.77",
+        "Eligible": "185",
+        "% Eligible": "49.2",
+        "County": "Penobscot",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.891727,
+          44.180965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 64/Msad 64",
+        "School Name": "Central Middle School",
+        "Address": "Central Middle School, Maine",
+        "Dist.Code": "1258",
+        "Enroll": "264",
+        "Free": "130",
+        "% Free": "49.24",
+        "Reduced": "26",
+        "% Reduced": "9.85",
+        "Eligible": "156",
+        "% Eligible": "59.09",
+        "County": "Penobscot",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.891727,
+          44.180965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 64/Msad 64",
+        "School Name": "Kenduskeag Elementary School",
+        "Address": "Kenduskeag Elementary School, Maine",
+        "Dist.Code": "1258",
+        "Enroll": "120",
+        "Free": "57",
+        "% Free": "47.5",
+        "Reduced": "11",
+        "% Reduced": "9.17",
+        "Eligible": "68",
+        "% Eligible": "56.67",
+        "County": "Penobscot",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.965803,
+          44.918877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 64/Msad 64",
+        "School Name": "Stetson Elementary School",
+        "Address": "Stetson Elementary School, Maine",
+        "Dist.Code": "1258",
+        "Enroll": "45",
+        "Free": "20",
+        "% Free": "44.44",
+        "Reduced": "2",
+        "% Reduced": "4.44",
+        "Eligible": "22",
+        "% Eligible": "48.89",
+        "County": "Penobscot",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.142341,
+          44.894697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Foxcroft Academy",
+        "School Name": "Foxcroft Academy",
+        "Address": "Foxcroft Academy, Maine",
+        "Dist.Code": "1335",
+        "Enroll": "460",
+        "Free": "124",
+        "% Free": "26.96",
+        "Reduced": "29",
+        "% Reduced": "6.3",
+        "Eligible": "153",
+        "% Eligible": "33.26",
+        "County": "Piscataquis",
+        "Accuracy Score": "0.53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.183943,
+          44.16035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Greenville School Department",
+        "School Name": "Greenville Consolidated School",
+        "Address": "Greenville Consolidated School, Maine",
+        "Dist.Code": "1070",
+        "Enroll": "204",
+        "Free": "87",
+        "% Free": "42.65",
+        "Reduced": "26",
+        "% Reduced": "12.75",
+        "Eligible": "113",
+        "% Eligible": "55.39",
+        "County": "Piscataquis",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.58907,
+          45.4666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 41/Msad 41",
+        "School Name": "Brownville Elementary School",
+        "Address": "Brownville Elementary School, Maine",
+        "Dist.Code": "1235",
+        "Enroll": "107",
+        "Free": "71",
+        "% Free": "66.36",
+        "Reduced": "16",
+        "% Reduced": "14.95",
+        "Eligible": "87",
+        "% Eligible": "81.31",
+        "County": "Piscataquis",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.058062,
+          45.351184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Georgetown School Department",
+        "School Name": "Georgetown Central School",
+        "Address": "Georgetown Central School, Maine",
+        "Dist.Code": "1061",
+        "Enroll": "82",
+        "Free": "23",
+        "% Free": "28.05",
+        "Reduced": "5",
+        "% Reduced": "6.1",
+        "Eligible": "28",
+        "% Eligible": "34.15",
+        "County": "Sagadahoc",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.745295,
+          43.805389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 01 - Lower Kennebec Rsu",
+        "School Name": "Morse High School Bath 1171",
+        "Address": "Morse High School Bath 1171, Maine",
+        "Dist.Code": "3152",
+        "Enroll": "624",
+        "Free": "249",
+        "% Free": "39.9",
+        "Reduced": "38",
+        "% Reduced": "6.09",
+        "Eligible": "287",
+        "% Eligible": "45.99",
+        "County": "Sagadahoc",
+        "Accuracy Score": "0.22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.850284,
+          39.848111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 01 - Lower Kennebec Rsu",
+        "School Name": "Phippsburg Elementary School",
+        "Address": "Phippsburg Elementary School, Maine",
+        "Dist.Code": "3152",
+        "Enroll": "88",
+        "Free": "36",
+        "% Free": "40.91",
+        "Reduced": "6",
+        "% Reduced": "6.82",
+        "Eligible": "42",
+        "% Eligible": "47.73",
+        "County": "Sagadahoc",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.810821,
+          43.789616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 01 - Lower Kennebec Rsu",
+        "School Name": "West Bath School",
+        "Address": "West Bath School, Maine",
+        "Dist.Code": "3152",
+        "Enroll": "148",
+        "Free": "54",
+        "% Free": "36.49",
+        "Reduced": "8",
+        "% Reduced": "5.41",
+        "Eligible": "62",
+        "% Eligible": "41.89",
+        "County": "Sagadahoc",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.662658,
+          43.852011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 02 Kennebec Intra-District",
+        "School Name": "Richmond High School",
+        "Address": "Richmond High School, Maine",
+        "Dist.Code": "3156",
+        "Enroll": "148",
+        "Free": "45",
+        "% Free": "30.41",
+        "Reduced": "8",
+        "% Reduced": "5.41",
+        "Eligible": "53",
+        "% Eligible": "35.81",
+        "County": "Sagadahoc",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.827489,
+          44.108059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 02 Kennebec Intra-District",
+        "School Name": "Richmond Middle School",
+        "Address": "Richmond Middle School, Maine",
+        "Dist.Code": "3156",
+        "Enroll": "117",
+        "Free": "46",
+        "% Free": "39.32",
+        "Reduced": "10",
+        "% Reduced": "8.55",
+        "Eligible": "56",
+        "% Eligible": "47.86",
+        "County": "Sagadahoc",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.827489,
+          44.108059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 75/Msad 75",
+        "School Name": "Bowdoinham Community School",
+        "Address": "Bowdoinham Community School, Maine",
+        "Dist.Code": "1266",
+        "Enroll": "183",
+        "Free": "74",
+        "% Free": "40.44",
+        "Reduced": "15",
+        "% Reduced": "8.2",
+        "Eligible": "89",
+        "% Eligible": "48.63",
+        "County": "Sagadahoc",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.875816,
+          44.023162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 19",
+        "School Name": "Hartland Consolidated School",
+        "Address": "Hartland Consolidated School, Maine",
+        "Dist.Code": "3165",
+        "Enroll": "197",
+        "Free": "119",
+        "% Free": "60.41",
+        "Reduced": "19",
+        "% Reduced": "9.64",
+        "Eligible": "138",
+        "% Eligible": "70.05",
+        "County": "Somerset",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.45866,
+          44.88152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 49/Msad 49",
+        "School Name": "Fairfield Primary School",
+        "Address": "Fairfield Primary School, Maine",
+        "Dist.Code": "1243",
+        "Enroll": "166",
+        "Free": "106",
+        "% Free": "63.86",
+        "Reduced": "14",
+        "% Reduced": "8.43",
+        "Eligible": "120",
+        "% Eligible": "72.29",
+        "County": "Somerset",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.680158,
+          44.646261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 54 / Msad 54",
+        "School Name": "North Elementary School",
+        "Address": "North Elementary School, Maine",
+        "Dist.Code": "1248",
+        "Enroll": "185",
+        "Free": "126",
+        "% Free": "68.11",
+        "Reduced": "10",
+        "% Reduced": "5.41",
+        "Eligible": "136",
+        "% Eligible": "73.51",
+        "County": "Somerset",
+        "Accuracy Score": "0.53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.616514,
+          43.77332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 54 / Msad 54",
+        "School Name": "Skowhegan Area High School",
+        "Address": "Skowhegan Area High School, Maine",
+        "Dist.Code": "1248",
+        "Enroll": "821",
+        "Free": "421",
+        "% Free": "51.28",
+        "Reduced": "70",
+        "% Reduced": "8.53",
+        "Eligible": "491",
+        "% Eligible": "59.81",
+        "County": "Somerset",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.593975,
+          44.769303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 54 / Msad 54",
+        "School Name": "Skowhegan Area Middle School",
+        "Address": "Skowhegan Area Middle School, Maine",
+        "Dist.Code": "1248",
+        "Enroll": "538",
+        "Free": "304",
+        "% Free": "56.51",
+        "Reduced": "44",
+        "% Reduced": "8.18",
+        "Eligible": "348",
+        "% Eligible": "64.68",
+        "County": "Somerset",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.593975,
+          44.769303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Islesboro School Department",
+        "School Name": "Islesboro Central School",
+        "Address": "Islesboro Central School, Maine",
+        "Dist.Code": "1079",
+        "Enroll": "96",
+        "Free": "21",
+        "% Free": "21.88",
+        "Reduced": "7",
+        "% Reduced": "7.29",
+        "Eligible": "28",
+        "% Eligible": "29.17",
+        "County": "Waldo",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.900772,
+          44.309021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Lincolnville School Department",
+        "School Name": "Lincolnville Central School",
+        "Address": "Lincolnville Central School, Maine",
+        "Dist.Code": "1091",
+        "Enroll": "181",
+        "Free": "57",
+        "% Free": "31.49",
+        "Reduced": "13",
+        "% Reduced": "7.18",
+        "Eligible": "70",
+        "% Eligible": "38.67",
+        "County": "Waldo",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.149559,
+          44.478694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 03/Msad 03",
+        "School Name": "Troy Central School",
+        "Address": "Troy Central School, Maine",
+        "Dist.Code": "1197",
+        "Enroll": "79",
+        "Free": "53",
+        "% Free": "67.09",
+        "Reduced": "11",
+        "% Reduced": "13.92",
+        "Eligible": "64",
+        "% Eligible": "81.01",
+        "County": "Waldo",
+        "Accuracy Score": "0.53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.256714,
+          44.682568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 20",
+        "School Name": "Belfast Area High School",
+        "Address": "Belfast Area High School, Maine",
+        "Dist.Code": "3166",
+        "Enroll": "549",
+        "Free": "239",
+        "% Free": "43.53",
+        "Reduced": "40",
+        "% Reduced": "7.29",
+        "Eligible": "279",
+        "% Eligible": "50.82",
+        "County": "Waldo",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.040297,
+          44.404619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 20",
+        "School Name": "East Belfast School",
+        "Address": "East Belfast School, Maine",
+        "Dist.Code": "3166",
+        "Enroll": "116",
+        "Free": "79",
+        "% Free": "68.1",
+        "Reduced": "4",
+        "% Reduced": "3.45",
+        "Eligible": "83",
+        "% Eligible": "71.55",
+        "County": "Waldo",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.52252,
+          44.41758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 20",
+        "School Name": "Searsport District High School",
+        "Address": "Searsport District High School, Maine",
+        "Dist.Code": "3166",
+        "Enroll": "160",
+        "Free": "83",
+        "% Free": "51.88",
+        "Reduced": "21",
+        "% Reduced": "13.13",
+        "Eligible": "104",
+        "% Eligible": "65",
+        "County": "Waldo",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.933051,
+          44.489412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 20",
+        "School Name": "Searsport District Middle School",
+        "Address": "Searsport District Middle School, Maine",
+        "Dist.Code": "3166",
+        "Enroll": "156",
+        "Free": "98",
+        "% Free": "62.82",
+        "Reduced": "17",
+        "% Reduced": "10.9",
+        "Eligible": "115",
+        "% Eligible": "73.72",
+        "County": "Waldo",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.933051,
+          44.489412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 20",
+        "School Name": "Searsport Elementary",
+        "Address": "Searsport Elementary, Maine",
+        "Dist.Code": "3166",
+        "Enroll": "221",
+        "Free": "140",
+        "% Free": "63.35",
+        "Reduced": "19",
+        "% Reduced": "8.6",
+        "Eligible": "159",
+        "% Eligible": "71.95",
+        "County": "Waldo",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.933051,
+          44.489412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Sweetser Children'S Services",
+        "School Name": "Belfast Crisis Unit",
+        "Address": "Belfast Crisis Unit, Maine",
+        "Dist.Code": "1396",
+        "Enroll": "4",
+        "Free": "4",
+        "% Free": "100",
+        "Reduced": "0",
+        "% Reduced": "0",
+        "Eligible": "4",
+        "% Eligible": "100",
+        "County": "Waldo",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.040297,
+          44.404619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Sweetser Children'S Services",
+        "School Name": "Belfast Me 2",
+        "Address": "Belfast Me 2, Maine",
+        "Dist.Code": "1396",
+        "Enroll": "4",
+        "Free": "3",
+        "% Free": "75",
+        "Reduced": "0",
+        "% Reduced": "0",
+        "Eligible": "3",
+        "% Eligible": "75",
+        "County": "Waldo",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.040297,
+          44.404619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Sweetser Children'S Services",
+        "School Name": "Belfast Me 3",
+        "Address": "Belfast Me 3, Maine",
+        "Dist.Code": "1396",
+        "Enroll": "6",
+        "Free": "5",
+        "% Free": "83.33",
+        "Reduced": "0",
+        "% Reduced": "0",
+        "Eligible": "5",
+        "% Eligible": "83.33",
+        "County": "Waldo",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.040297,
+          44.404619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Baileyville School Department",
+        "School Name": "Woodland Elementary School",
+        "Address": "Woodland Elementary School, Maine",
+        "Dist.Code": "1009",
+        "Enroll": "127",
+        "Free": "67",
+        "% Free": "52.76",
+        "Reduced": "13",
+        "% Reduced": "10.24",
+        "Eligible": "80",
+        "% Eligible": "62.99",
+        "County": "Washington",
+        "Accuracy Score": "0.6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.404717,
+          45.157019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Baileyville School Department",
+        "School Name": "Woodland Jr-Sr High School",
+        "Address": "Woodland Jr-Sr High School, Maine",
+        "Dist.Code": "1009",
+        "Enroll": "177",
+        "Free": "75",
+        "% Free": "42.37",
+        "Reduced": "23",
+        "% Reduced": "12.99",
+        "Eligible": "98",
+        "% Eligible": "55.37",
+        "County": "Washington",
+        "Accuracy Score": "0.6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.404717,
+          45.157019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Cherryfield Public Schools",
+        "School Name": "Cherryfield Elementary",
+        "Address": "Cherryfield Elementary, Maine",
+        "Dist.Code": "3230",
+        "Enroll": "109",
+        "Free": "68",
+        "% Free": "62.39",
+        "Reduced": "12",
+        "% Reduced": "11.01",
+        "Eligible": "80",
+        "% Eligible": "73.39",
+        "County": "Washington",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.923248,
+          44.603258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "East Range Csd",
+        "School Name": "East Range I I School",
+        "Address": "East Range I I School, Maine",
+        "Dist.Code": "1288",
+        "Enroll": "36",
+        "Free": "19",
+        "% Free": "52.78",
+        "Reduced": "10",
+        "% Reduced": "27.78",
+        "Eligible": "29",
+        "% Eligible": "80.56",
+        "County": "Washington",
+        "Accuracy Score": "0.53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.767536,
+          44.735628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Edmunds Consolodated School",
+        "School Name": "Edmunds Consolidated School",
+        "Address": "Edmunds Consolidated School, Maine",
+        "Dist.Code": "5603",
+        "Enroll": "55",
+        "Free": "27",
+        "% Free": "49.09",
+        "Reduced": "8",
+        "% Reduced": "14.55",
+        "Eligible": "35",
+        "% Eligible": "63.64",
+        "County": "Washington",
+        "Accuracy Score": "0.53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.164152,
+          44.872023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Eastport School Department",
+        "School Name": "Eastport Elementary School",
+        "Address": "Eastport Elementary School, Maine",
+        "Dist.Code": "1054",
+        "Enroll": "90",
+        "Free": "48",
+        "% Free": "53.33",
+        "Reduced": "13",
+        "% Reduced": "14.44",
+        "Eligible": "61",
+        "% Eligible": "67.78",
+        "County": "Washington",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.845114,
+          43.732391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Jonesport School Department",
+        "School Name": "Jonesport Elementary School",
+        "Address": "Jonesport Elementary School, Maine",
+        "Dist.Code": "1083",
+        "Enroll": "124",
+        "Free": "72",
+        "% Free": "58.06",
+        "Reduced": "17",
+        "% Reduced": "13.71",
+        "Eligible": "89",
+        "% Eligible": "71.77",
+        "County": "Washington",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.59833,
+          44.53286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Jonesboro School Department",
+        "School Name": "Jonesboro Elementary School",
+        "Address": "Jonesboro Elementary School, Maine",
+        "Dist.Code": "1082",
+        "Enroll": "63",
+        "Free": "35",
+        "% Free": "55.56",
+        "Reduced": "7",
+        "% Reduced": "11.11",
+        "Eligible": "42",
+        "% Eligible": "66.67",
+        "County": "Washington",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.57249,
+          44.66258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Moosabec Csd",
+        "School Name": "Jonesport-Beals High School",
+        "Address": "Jonesport-Beals High School, Maine",
+        "Dist.Code": "1292",
+        "Enroll": "61",
+        "Free": "32",
+        "% Free": "52.46",
+        "Reduced": "9",
+        "% Reduced": "14.75",
+        "Eligible": "41",
+        "% Eligible": "67.21",
+        "County": "Washington",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.59833,
+          44.53286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Princeton School Department",
+        "School Name": "Princeton Elementary School",
+        "Address": "Princeton Elementary School, Maine",
+        "Dist.Code": "1136",
+        "Enroll": "119",
+        "Free": "70",
+        "% Free": "58.82",
+        "Reduced": "14",
+        "% Reduced": "11.76",
+        "Eligible": "84",
+        "% Eligible": "70.59",
+        "County": "Washington",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.575432,
+          45.209229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Robbinston School Department",
+        "School Name": "Robbinston Grade School",
+        "Address": "Robbinston Grade School, Maine",
+        "Dist.Code": "1143",
+        "Enroll": "50",
+        "Free": "24",
+        "% Free": "48",
+        "Reduced": "5",
+        "% Reduced": "10",
+        "Eligible": "29",
+        "% Eligible": "58",
+        "County": "Washington",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.10943,
+          45.07813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 37/Msad 37",
+        "School Name": "Harrington Elementary School",
+        "Address": "Harrington Elementary School, Maine",
+        "Dist.Code": "1231",
+        "Enroll": "169",
+        "Free": "90",
+        "% Free": "53.25",
+        "Reduced": "14",
+        "% Reduced": "8.28",
+        "Eligible": "104",
+        "% Eligible": "61.54",
+        "County": "Washington",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.81028,
+          44.61924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 37/Msad 37",
+        "School Name": "Milbridge Elementary School",
+        "Address": "Milbridge Elementary School, Maine",
+        "Dist.Code": "1231",
+        "Enroll": "119",
+        "Free": "81",
+        "% Free": "68.07",
+        "Reduced": "10",
+        "% Reduced": "8.4",
+        "Eligible": "91",
+        "% Eligible": "76.47",
+        "County": "Washington",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.88083,
+          44.53536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 84 /Msad 14",
+        "School Name": "East Grand School",
+        "Address": "East Grand School, Maine",
+        "Dist.Code": "1208",
+        "Enroll": "142",
+        "Free": "96",
+        "% Free": "67.61",
+        "Reduced": "19",
+        "% Reduced": "13.38",
+        "Eligible": "115",
+        "% Eligible": "80.99",
+        "County": "Washington",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.18201,
+          47.45587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Vanceboro School Department",
+        "School Name": "Vanceboro Elementary School",
+        "Address": "Vanceboro Elementary School, Maine",
+        "Dist.Code": "1165",
+        "Enroll": "11",
+        "Free": "4",
+        "% Free": "36.36",
+        "Reduced": "3",
+        "% Reduced": "27.27",
+        "Eligible": "7",
+        "% Eligible": "63.64",
+        "County": "Washington",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.42972,
+          45.5634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Washington Academy",
+        "School Name": "Washington Academy",
+        "Address": "Washington Academy, Maine",
+        "Dist.Code": "1336",
+        "Enroll": "371",
+        "Free": "115",
+        "% Free": "31",
+        "Reduced": "37",
+        "% Reduced": "9.97",
+        "Eligible": "152",
+        "% Eligible": "40.97",
+        "County": "Washington",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.36727,
+          44.27369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Biddeford School Department",
+        "School Name": "Biddeford High School",
+        "Address": "Biddeford High School, Maine",
+        "Dist.Code": "1016",
+        "Enroll": "800",
+        "Free": "321",
+        "% Free": "40.13",
+        "Reduced": "45",
+        "% Reduced": "5.63",
+        "Eligible": "366",
+        "% Eligible": "45.75",
+        "County": "York",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.505301,
+          43.45813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Biddeford School Department",
+        "School Name": "Biddeford Intermediate School",
+        "Address": "Biddeford Intermediate School, Maine",
+        "Dist.Code": "1016",
+        "Enroll": "369",
+        "Free": "199",
+        "% Free": "53.93",
+        "Reduced": "24",
+        "% Reduced": "6.5",
+        "Eligible": "223",
+        "% Eligible": "60.43",
+        "County": "York",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.505301,
+          43.45813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Biddeford School Department",
+        "School Name": "Biddeford Middle School",
+        "Address": "Biddeford Middle School, Maine",
+        "Dist.Code": "1016",
+        "Enroll": "590",
+        "Free": "265",
+        "% Free": "44.92",
+        "Reduced": "30",
+        "% Reduced": "5.08",
+        "Eligible": "295",
+        "% Eligible": "50",
+        "County": "York",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.505301,
+          43.45813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Biddeford School Department",
+        "School Name": "Biddeford Primary School",
+        "Address": "Biddeford Primary School, Maine",
+        "Dist.Code": "1016",
+        "Enroll": "540",
+        "Free": "301",
+        "% Free": "55.74",
+        "Reduced": "19",
+        "% Reduced": "3.52",
+        "Eligible": "320",
+        "% Eligible": "59.26",
+        "County": "York",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.505301,
+          43.45813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 21",
+        "School Name": "Kennebunk Elementary School",
+        "Address": "Kennebunk Elementary School, Maine",
+        "Dist.Code": "3167",
+        "Enroll": "464",
+        "Free": "110",
+        "% Free": "23.71",
+        "Reduced": "20",
+        "% Reduced": "4.31",
+        "Eligible": "130",
+        "% Eligible": "28.02",
+        "County": "York",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.54419,
+          43.38409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 21",
+        "School Name": "Kennebunk High School",
+        "Address": "Kennebunk High School, Maine",
+        "Dist.Code": "3167",
+        "Enroll": "675",
+        "Free": "107",
+        "% Free": "15.85",
+        "Reduced": "35",
+        "% Reduced": "5.19",
+        "Eligible": "142",
+        "% Eligible": "21.04",
+        "County": "York",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.54419,
+          43.38409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 21",
+        "School Name": "Kennebunkport Consolidated Sch",
+        "Address": "Kennebunkport Consolidated Sch, Maine",
+        "Dist.Code": "3167",
+        "Enroll": "200",
+        "Free": "33",
+        "% Free": "16.5",
+        "Reduced": "3",
+        "% Reduced": "1.5",
+        "Eligible": "36",
+        "% Eligible": "18",
+        "County": "York",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.54419,
+          43.38409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 23 Old Orchard/ Dayton/ Saco",
+        "School Name": "Old Orchard Beach High School",
+        "Address": "Old Orchard Beach High School, Maine",
+        "Dist.Code": "3168",
+        "Enroll": "228",
+        "Free": "101",
+        "% Free": "44.3",
+        "Reduced": "17",
+        "% Reduced": "7.46",
+        "Eligible": "118",
+        "% Eligible": "51.75",
+        "County": "York",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.39069,
+          43.52395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 35/Msad 35",
+        "School Name": "Central School",
+        "Address": "Central School, Maine",
+        "Dist.Code": "1229",
+        "Enroll": "566",
+        "Free": "96",
+        "% Free": "16.96",
+        "Reduced": "26",
+        "% Reduced": "4.59",
+        "Eligible": "122",
+        "% Eligible": "21.55",
+        "County": "York",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.891727,
+          44.180965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 57/Msad 57",
+        "School Name": "Alfred Elementary School",
+        "Address": "Alfred Elementary School, Maine",
+        "Dist.Code": "1251",
+        "Enroll": "206",
+        "Free": "67",
+        "% Free": "32.52",
+        "Reduced": "10",
+        "% Reduced": "4.85",
+        "Eligible": "77",
+        "% Eligible": "37.38",
+        "County": "York",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.738992,
+          43.467224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 57/Msad 57",
+        "School Name": "Waterboro Elementary School",
+        "Address": "Waterboro Elementary School, Maine",
+        "Dist.Code": "1251",
+        "Enroll": "518",
+        "Free": "225",
+        "% Free": "43.44",
+        "Reduced": "37",
+        "% Reduced": "7.14",
+        "Eligible": "262",
+        "% Eligible": "50.58",
+        "County": "York",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.749181,
+          43.573684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Rsu 60/Msad 60",
+        "School Name": "North Berwick Elementary School",
+        "Address": "North Berwick Elementary School, Maine",
+        "Dist.Code": "1254",
+        "Enroll": "341",
+        "Free": "100",
+        "% Free": "29.33",
+        "Reduced": "20",
+        "% Reduced": "5.87",
+        "Eligible": "120",
+        "% Eligible": "35.19",
+        "County": "York",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.698919,
+          44.101552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Sanford School Department",
+        "School Name": "Sanford High School",
+        "Address": "Sanford High School, Maine",
+        "Dist.Code": "1148",
+        "Enroll": "1074",
+        "Free": "440",
+        "% Free": "40.97",
+        "Reduced": "84",
+        "% Reduced": "7.82",
+        "Eligible": "524",
+        "% Eligible": "48.79",
+        "County": "York",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.78015,
+          43.44007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Sanford School Department",
+        "School Name": "Sanford Jr High School",
+        "Address": "Sanford Jr High School, Maine",
+        "Dist.Code": "1148",
+        "Enroll": "591",
+        "Free": "299",
+        "% Free": "50.59",
+        "Reduced": "64",
+        "% Reduced": "10.83",
+        "Eligible": "363",
+        "% Eligible": "61.42",
+        "County": "York",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.78015,
+          43.44007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Sweetser Children'S Services",
+        "School Name": "Belfast Cottage Staff Intensive",
+        "Address": "Belfast Cottage Staff Intensive, Maine",
+        "Dist.Code": "1396",
+        "Enroll": "6",
+        "Free": "6",
+        "% Free": "100",
+        "Reduced": "0",
+        "% Reduced": "0",
+        "Eligible": "6",
+        "% Eligible": "100",
+        "County": "York",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.040297,
+          44.404619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Sweetser Children'S Services",
+        "School Name": "Cape Cottage Staff Intensive",
+        "Address": "Cape Cottage Staff Intensive, Maine",
+        "Dist.Code": "1396",
+        "Enroll": "5",
+        "Free": "3",
+        "% Free": "60",
+        "Reduced": "0",
+        "% Reduced": "0",
+        "Eligible": "3",
+        "% Eligible": "60",
+        "County": "York",
+        "Accuracy Score": "0.6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.216159,
+          43.627028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Sweetser Children'S Services",
+        "School Name": "East Staff Intensive",
+        "Address": "East Staff Intensive, Maine",
+        "Dist.Code": "1396",
+        "Enroll": "7",
+        "Free": "5",
+        "% Free": "71.43",
+        "Reduced": "0",
+        "% Reduced": "0",
+        "Eligible": "5",
+        "% Eligible": "71.43",
+        "County": "York",
+        "Accuracy Score": "0.6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.812568,
+          44.250346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Sweetser Children'S Services",
+        "School Name": "Portland Adolescent Staff Intensive",
+        "Address": "Portland Adolescent Staff Intensive, Maine",
+        "Dist.Code": "1396",
+        "Enroll": "8",
+        "Free": "7",
+        "% Free": "87.5",
+        "Reduced": "0",
+        "% Reduced": "0",
+        "Eligible": "7",
+        "% Eligible": "87.5",
+        "County": "York",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.262393,
+          43.658784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dist.Name": "Sweetser Children'S Services",
+        "School Name": "West Staff Intensive",
+        "Address": "West Staff Intensive, Maine",
+        "Dist.Code": "1396",
+        "Enroll": "8",
+        "Free": "6",
+        "% Free": "75",
+        "Reduced": "0",
+        "% Reduced": "0",
+        "Eligible": "6",
+        "% Eligible": "75",
+        "County": "York",
+        "Accuracy Score": "0.53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.691416,
+          44.16647
+        ]
+      }
+    }
+  ]
+}

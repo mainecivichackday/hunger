@@ -2,19 +2,32 @@
 layout: default
 ---
 
-<div class="home">
+<h1>Lunch.</h1>
 
-  <h1>Posts</h1>
+<div id='map'></div>
 
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </li>
-    {% endfor %}
-  </ul>
+<script type='text/javascript'>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+	var map = L.map('map', {
+		center: new L.LatLng(45, -69.3),
+		zoom: 7,
+		layers: new L.tileLayer('http://a.tiles.mapbox.com/v3/jacques.map-612s2qsj/{z}/{x}/{y}.png')
+	});
 
-</div>
+	var markerOptions = {
+		radius: 5,
+		fillColor: "#ff0000",
+		color: "#ff0000",
+		weight: 1,
+		opacity: 0.8,
+		fillOpacity: 0.6
+	};
+
+	$.getJSON("./data/maine-school-address.geojson", function(data) {
+		var geojson = L.geoJson(data, {
+			pointToLayer: function(feature, latlng) {
+				return L.circleMarker(latlng, markerOptions);
+			}
+		}).addTo(map);
+	});
+</script>

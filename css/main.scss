@@ -1,0 +1,60 @@
+// IMPORTS & VARIABLES
+
+$font:				 ff-tisa-sans-web-pro, helvetica, tahoma, sans-serif;
+
+$copy:				#666;
+$light:				#AAA;
+$alert:				#222;
+
+$link:				rgba(110,154,194,0.2);
+$link-hover:	rgba(110,154,194,0.6);
+
+* { 
+	box-sizing: border-box;
+}
+
+body {
+	color: $copy;
+	font: 400 1em/1.6 $font;
+}	
+
+.container {
+	padding: 4em;
+	width: 100%;
+}
+
+h1,
+h2,
+h3 { 
+	color: $alert;
+	font-weight: 500;
+}
+
+h1 { font-size: 1.618em; }
+h2 { font-size: 1.365em; }
+h3 { font-size: 1em; }
+
+p { margin: 1em 0; }
+
+a {
+	color: $alert;
+	border-bottom: 2px solid $link;
+	text-decoration: none;
+	&:hover { color: darken($alert, 20%); }
+	&:hover { border-bottom: 2px solid $link-hover; }
+}
+
+li { list-style-type: circle; }
+ul { margin-bottom: 1em; }
+img { width: 100%; }
+strong { color: $alert; }
+
+em {
+	font-style: italic;
+	color: #aaa;
+}
+
+#map {
+	height: 500px;
+	width: 100%;
+}
