@@ -9,9 +9,7 @@ $alert:				#222;
 $link:				rgba(110,154,194,0.2);
 $link-hover:	rgba(110,154,194,0.6);
 
-* { 
-	box-sizing: border-box;
-}
+* { box-sizing: border-box; }
 
 body {
 	color: $copy;
@@ -19,8 +17,10 @@ body {
 }	
 
 .container {
-	padding: 4em;
-	width: 100%;
+	padding: 1em;
+	margin: 0 auto;
+	margin-top: 5em;
+	max-width: 40rem;
 }
 
 h1,
