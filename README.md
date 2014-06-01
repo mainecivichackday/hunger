@@ -1,19 +1,19 @@
+![](http://img.shields.io/badge/version-alpha-red.svg?style=flat)
+
 hunger
 ======
 
 _[A Maine Civic Hack Day 2014](http://www.civichack.me/2014/) project._
 
-![](http://img.shields.io/badge/version-alpha-red.svg)
-
 ## Overview
 
 ## Datasets
 
-- `addresses.csv/addresses.geojson`
-- `dropout.csv`
-- `food-assistance-enrollment-program.csv`
-- `maine-educational-assessment.csv`
-- `pantries.csv/pantries.geojson'
+- `[addresses.csv](https://github.com/mainecivichackday/hunger/blob/gh-pages/data/addresses.csv)/[addresses.geojson](https://github.com/mainecivichackday/hunger/blob/gh-pages/data/addresses.geojson)`
+- `[dropout.csv](https://github.com/mainecivichackday/hunger/blob/gh-pages/data/dropout.csv)`
+- `[food-assistance-enrollment-program.csv](https://github.com/mainecivichackday/hunger/blob/gh-pages/data/food-assistance-program-enrollment.csv)`
+- `[maine-educational-assessment.csv](https://github.com/mainecivichackday/hunger/blob/gh-pages/data/maine-educational-assessment.csv)`
+- `[pantries.csv](https://github.com/mainecivichackday/hunger/blob/gh-pages/data/pantries.csv)/[pantries.geojson](https://github.com/mainecivichackday/hunger/blob/gh-pages/data/pantries.geojson)`
 
 ## Contributors
 - Sarah Newcomb
