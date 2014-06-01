@@ -29,3 +29,4 @@ $.getJSON("./data/addresses.geojson", function(data) {
 });
 
 L.control.locate().addTo(map);
+var hash = L.hash(map);
