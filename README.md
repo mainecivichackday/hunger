@@ -3,6 +3,8 @@
 hunger
 ======
 
+[![](https://pbs.twimg.com/media/Bo99swkIMAAqNX-.jpg:large)](https://twitter.com/RandalHunt/status/472734693943947265/photo/1)
+
 _[A Maine Civic Hack Day 2014](http://www.civichack.me/2014/) project._
 
 ## Overview
