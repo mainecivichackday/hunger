@@ -1,17 +1,30 @@
-![](http://img.shields.io/badge/version-alpha-red.svg?style=flat)
-
 hunger
 ======
 
 _[A Maine Civic Hack Day 2014](http://www.civichack.me/2014/) project._
 
-## Overview
+This project is aimed at increasing awareness of the prevalance of food security issues in Maine. Datasets hidden in HTML tables and other hard-to-access formats were collected and cleaned to help lower the difficulty of future projects related to food security issues here in Maine.
+
+![](http://img.shields.io/badge/version-alpha-red.svg?style=flat)
+
+[![](https://pbs.twimg.com/media/Bo99swkIMAAqNX-.jpg:large)](https://twitter.com/RandalHunt/status/472734693943947265/photo/1)
+
+_That's Ben Sprague giving his pitch for the project!_
 
 ## Datasets
 
 #### [addresses.csv](https://github.com/mainecivichackday/hunger/blob/gh-pages/data/addresses.csv) / [addresses.geojson](https://github.com/mainecivichackday/hunger/blob/gh-pages/data/addresses.geojson)
+
+Geocoded (via [geocod.io](https://dash.geocod.io/)) addresses for the `percent-free-and-reduced-lunch-reports` information.
+
 #### [dropout.csv](https://github.com/mainecivichackday/hunger/blob/gh-pages/data.csv)
+
+Dropout percentages for High Schools in Maine. Data acquired from the [Maine Department of Education Data Warehouse](http://dw.education.maine.gov/DirectoryManager/Web/maine_report/MaineLanding.aspx).
+
 #### [food-assistance-enrollment-program.csv](https://github.com/mainecivichackday/hunger/blob/gh-pages/data/food-assistance-program-enrollment.csv)
+
+The percentages of students enrolled in Food Assistance Enrollment for High Schools in Maine. Data acquired from the [Maine Department of Education Data Warehouse](http://dw.education.maine.gov/DirectoryManager/Web/maine_report/MaineLanding.aspx).
+
 #### [maine-educational-assessment.csv](https://github.com/mainecivichackday/hunger/blob/gh-pages/data/maine-educational-assessment.csv)
 #### [pantries.csv](https://github.com/mainecivichackday/hunger/blob/gh-pages/data/pantries.csv) / [pantries.geojson](https://github.com/mainecivichackday/hunger/blob/gh-pages/data/pantries.geojson)
 
