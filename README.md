@@ -1,13 +1,13 @@
-![](http://img.shields.io/badge/version-alpha-red.svg?style=flat)
-
 hunger
 ======
 
-[![](https://pbs.twimg.com/media/Bo99swkIMAAqNX-.jpg:large)](https://twitter.com/RandalHunt/status/472734693943947265/photo/1)
-
 _[A Maine Civic Hack Day 2014](http://www.civichack.me/2014/) project._
 
-## Overview
+This project is aimed at increasing awareness of the prevalance of food security issues in Maine. Datasets hidden in HTML tables and other hard-to-access formats were collected and cleaned to help lower the difficulty of future projects related to food security issues here in Maine.
+
+![](http://img.shields.io/badge/version-alpha-red.svg?style=flat)
+
+[![](https://pbs.twimg.com/media/Bo99swkIMAAqNX-.jpg:large)](https://twitter.com/RandalHunt/status/472734693943947265/photo/1)
 
 ## Datasets
 
