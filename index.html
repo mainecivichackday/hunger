@@ -9,8 +9,26 @@
 		<link rel='stylesheet' href='css/main.css' />
 
 		<script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js'></script>
+		<!-- Leaflet -->
 		<script type='text/javascript' src='bower_components/leaflet/dist/leaflet.js'></script>
 		<link rel='stylesheet' href='bower_components/leaflet/dist/leaflet.css' />
+		<!-- Leaflet-locatecontrol-->
+		<script src='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-locatecontrol/v0.24.0/L.Control.Locate.js'></script>
+		<link href='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-locatecontrol/v0.24.0/L.Control.Locate.css' rel='stylesheet' />
+
+
+		<style>
+			.leaflet-control-locate {
+				border:1px solid rgba(0,0,0,0.4);
+			}
+			.leaflet-control-locate a {
+				background-color:#fff;
+				background-position:-3px, -2px;
+			}
+			.leaflet-control-locate.active a {
+				background-position:-33px -2px;
+			}
+		</style>
 
 	</head>
 
@@ -24,5 +42,6 @@
 		<script type='text/javascript' src='js/map.js'></script>
 		<script type="text/javascript" src="//use.typekit.net/miq6xoz.js"></script>
 		<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
 	</body>
 </html>

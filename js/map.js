@@ -27,3 +27,5 @@ $.getJSON("./data/addresses.geojson", function(data) {
 		}
 	}).addTo(map);
 });
+
+L.control.locate().addTo(map);
