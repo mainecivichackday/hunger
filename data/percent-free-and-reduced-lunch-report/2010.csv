@@ -1,0 +1,673 @@
+dist-code,dist-name,name,enroll,free,free-percent,reduced,reduced-percent,eligible,eligible-percent
+0,! Doe Inactive,Livermore Falls Middle School,221,117,52.94,21,9.5,138,62.44
+0,! Doe Inactive,Sabattus Central School,341,104,30.5,33,9.68,137,40.18
+0,! Doe Inactive,Wales Central School,166,50,30.12,20,12.05,70,42.17
+1007,Auburn School Department,Auburn Middle School,485,201,41.44,29,5.98,230,47.42
+1007,Auburn School Department,East Auburn Community School,163,67,41.1,21,12.88,88,53.99
+1007,Auburn School Department,Edward Little High School,1111,418,37.62,50,4.5,468,42.12
+1007,Auburn School Department,Fairview School,522,142,27.2,24,4.6,166,31.8
+1007,Auburn School Department,Park Avenue Elementary School,356,189,53.09,19,5.34,208,58.43
+1007,Auburn School Department,Sherwood Heights Elementary Sch,442,252,57.01,24,5.43,276,62.44
+1007,Auburn School Department,Walton School,266,167,62.78,24,9.02,191,71.8
+1007,Auburn School Department,Washburn School,246,163,66.26,14,5.69,177,71.95
+1088,Lewiston School Department,Farwell Elementary School,382,217,56.81,25,6.54,242,63.35
+1088,Lewiston School Department,Governor James B Longley Elem Sch,288,280,97.22,0,0,280,97.22
+1088,Lewiston School Department,Lewiston High School,1395,635,45.52,65,4.66,700,50.18
+1088,Lewiston School Department,Lewiston Middle School,647,359,55.49,36,5.56,395,61.05
+1088,Lewiston School Department,Martel School,294,178,60.54,19,6.46,197,67.01
+1088,Lewiston School Department,Montello School,730,541,74.11,37,5.07,578,79.18
+1088,Lewiston School Department,Raymond A. Geiger Elementary School,680,368,54.12,41,6.03,409,60.15
+1088,Lewiston School Department,Thomas J Mcmahon Elementary Sch,464,241,51.94,27,5.82,268,57.76
+1092,Lisbon School Department,Lisbon Community School,585,212,36.24,56,9.57,268,45.81
+1092,Lisbon School Department,Lisbon High School,403,114,28.29,40,9.93,154,38.21
+1092,Lisbon School Department,Philip W Sugg Middle School,304,107,35.2,30,9.87,137,45.07
+5099,N F I North,N.F.I. Dirigo Place,7,7,100,0,0,7,100
+5099,N F I North,N.F.I.Dodge House,6,6,100,0,0,6,100
+5702,New Beginnings,New Beginnings Shelter,12,12,100,0,0,12,100
+3157,Rsu 04,Oak Hill High School,521,156,29.94,51,9.79,207,39.73
+3157,Rsu 04,Sabattus Primary School,171,72,42.11,15,8.77,87,50.88
+3158,Rsu 05,Durham Elementary School,378,74,19.58,30,7.94,104,27.51
+3163,Rsu 16,Bruce M Whittier Middle School,127,24,18.9,12,9.45,36,28.35
+3163,Rsu 16,Elm Street School-Mechanic Falls,322,144,44.72,37,11.49,181,56.21
+3163,Rsu 16,Minot Consolidated School,263,62,23.57,26,9.89,88,33.46
+3163,Rsu 16,Poland Community School,432,138,31.94,61,14.12,199,46.06
+3163,Rsu 16,Poland Regional H S,436,134,30.73,37,8.49,171,39.22
+1246,Rsu 52/Msad 52,Greene Central School,369,98,26.56,40,10.84,138,37.4
+1246,Rsu 52/Msad 52,Leavitt Area High School,633,148,23.38,45,7.11,193,30.49
+1246,Rsu 52/Msad 52,Leeds Central School,201,69,34.33,18,8.96,87,43.28
+1246,Rsu 52/Msad 52,Tripp Middle School,344,90,26.16,34,9.88,124,36.05
+1246,Rsu 52/Msad 52,Turner Elementary School,214,60,28.04,26,12.15,86,40.19
+1246,Rsu 52/Msad 52,Turner Primary School,287,70,24.39,34,11.85,104,36.24
+3198,Rsu 73,Livermore Elementary School,424,244,57.55,27,6.37,271,63.92
+3198,Rsu 73,Spurce Mt Hs South (Livermore Falls Hs),330,131,39.7,39,11.82,170,51.52
+5728,Rumford Group Home,Turner Family Support,4,4,100,0,0,4,100
+1375,Spurwink School Inc,Spurwink Services--Auburn,27,19,70.37,1,3.7,20,74.07
+1360,St Dominic Academy,St Dominick Academy,302,18,5.96,25,8.28,43,14.24
+1396,Sweetser Children'S Services,Zzz Lewiston Family Focus,5,2,40,0,0,2,40
+5057,University Of Maine 4 H Camp & Learning Center,University Of Maine 4 H Learning Center,0,0,0,0,0,0,0
+0,! Doe Inactive,Little Brothers Shelter - Westbrook,7,4,57.14,0,0,4,57.14
+1033,Caswell School Department,Dawn F Barnes Elementary Sch,39,30,76.92,6,15.38,36,92.31
+5602,Connor Consolidated School,Connor Consolidated School,39,15,38.46,12,30.77,27,69.23
+1053,Easton School Department,Easton Elementary School,136,55,40.44,16,11.76,71,52.21
+1053,Easton School Department,Easton Junior-Senior High Sch,65,21,32.31,5,7.69,26,40
+1097,Madawaska School Department,Madawaska Elementary School,260,96,36.92,17,6.54,113,43.46
+1097,Madawaska School Department,Madawaska Middle/High School,351,90,25.64,33,9.4,123,35.04
+1221,Msad 27,Eagle Lake Elem/Jr High School,98,44,44.9,12,12.24,56,57.14
+1221,Msad 27,Fort Kent Community High School,348,106,30.46,30,8.62,136,39.08
+1221,Msad 27,Fort Kent Elementary School,466,176,37.77,50,10.73,226,48.5
+1221,Msad 27,St Francis Elementary School,67,26,38.81,6,8.96,32,47.76
+1221,Msad 27,Wallagrass Elementary School,87,30,34.48,16,18.39,46,52.87
+1116,New Sweden School Department,New Sweden Consolidated School,81,42,51.85,9,11.11,51,62.96
+1386,Opportunity Training Center,Opportunity Training Center,25,17,68,3,12,20,80
+1223,Rsu 29/Msad 29,Houlton Elementary School,382,205,53.66,29,7.59,234,61.26
+1223,Rsu 29/Msad 29,Houlton High School,400,169,42.25,26,6.5,195,48.75
+1223,Rsu 29/Msad 29,Houlton Junior High School,190,86,45.26,19,10,105,55.26
+1223,Rsu 29/Msad 29,Houlton Southside School,282,128,45.39,28,9.93,156,55.32
+1223,Rsu 29/Msad 29,Wellington School,74,42,56.76,10,13.51,52,70.27
+1226,Rsu 32/Msad 32,Zzz Ashland Central School,148,66,44.59,24,16.22,90,60.81
+1226,Rsu 32/Msad 32,Zzz Ashland Community High School,165,84,50.91,26,15.76,110,66.67
+1227,Rsu 33/Msad 33,Dr Levesque Elementary School,155,66,42.58,15,9.68,81,52.26
+1227,Rsu 33/Msad 33,Wisdom Middle High School,133,43,32.33,12,9.02,55,41.35
+3174,Rsu 39,Caribou High School,551,178,32.3,37,6.72,215,39.02
+3174,Rsu 39,Caribou Middle School,416,168,40.38,36,8.65,204,49.04
+3174,Rsu 39,Hilltop Elementary School,337,152,45.1,25,7.42,177,52.52
+3174,Rsu 39,Limestone Community School,280,148,52.86,46,16.43,194,69.29
+3174,Rsu 39,Teague Park School,184,77,41.85,6,3.26,83,45.11
+1236,Rsu 42/Msad 42,Central Aroostook Jr-Sr H S,212,81,38.21,22,10.38,103,48.58
+1236,Rsu 42/Msad 42,Fort Street School,254,96,37.8,16,6.3,112,44.09
+1239,Rsu 45/Msad 45,Washburn District Elem School,272,127,46.69,22,8.09,149,54.78
+1239,Rsu 45/Msad 45,Washburn District High School,116,38,32.76,9,7.76,47,40.52
+3199,Rsu 50,So Aroostook Csd School,427,281,65.81,56,13.11,337,78.92
+1262,Rsu 70/Msad 70,Mill Pond School,358,195,54.47,31,8.66,226,63.13
+1262,Rsu 70/Msad 70,Sad 70 Hodgdon High School,168,66,39.29,18,10.71,84,50
+1196,Rsu 79/Msad 01,Eva Hoyt Zippel School,348,160,45.98,35,10.06,195,56.03
+1196,Rsu 79/Msad 01,Mapleton Elementary School,210,64,30.48,22,10.48,86,40.95
+1196,Rsu 79/Msad 01,Pine Street Elementary School,365,181,49.59,33,9.04,214,58.63
+1196,Rsu 79/Msad 01,Presque Isle High School,593,193,32.55,51,8.6,244,41.15
+1196,Rsu 79/Msad 01,Presque Isle Middle School,440,172,39.09,42,9.55,214,48.64
+1214,Rsu 86/Msad 20,Fort Fairfield Elementary School,276,158,57.25,29,10.51,187,67.75
+1214,Rsu 86/Msad 20,Fort Fairfield Middle/High School,283,118,41.7,46,16.25,164,57.95
+1218,Rsu 88/Msad 24,Van Buren District Secondary Sch,146,58,39.73,13,8.9,71,48.63
+1218,Rsu 88/Msad 24,Van Buren Elementary School,237,122,51.48,22,9.28,144,60.76
+5607,Sinclair School,Sinclair School,8,4,50,2,25,6,75
+1187,Woodland School Department,Woodland Consolidated Sch,131,53,40.46,5,3.82,58,44.27
+0,! Doe Inactive,D W Lunt School,414,24,5.8,3,0.72,27,6.52
+0,! Doe Inactive,Jordan Acres School,402,98,24.38,27,6.72,125,31.09
+0,! Doe Inactive,Longfellow School-Brunswick,305,96,31.48,7,2.3,103,33.77
+0,! Doe Inactive,Nathan Clifford School,305,134,43.93,15,4.92,149,48.85
+0,! Doe Inactive,Plummer-Motz School,320,17,5.31,3,0.94,20,6.25
+0,! Doe Inactive,Prides Corner School,325,154,47.38,19,5.85,173,53.23
+0,! Doe Inactive,Spurwink School--S Portland,36,26,72.22,0,0,26,72.22
+0,! Doe Inactive,West Harpswell Elementary School,74,25,33.78,7,9.46,32,43.24
+0,! Doe Inactive,White Rock School,151,33,21.85,3,1.99,36,23.84
+0,! Doe Inactive,Y.I. Heritage House,7,6,85.71,0,0,6,85.71
+1296,Arthur R. Gould Sch--Lcydc,Arthur R. Gould Sch--Lcydc,130,130,100,0,0,130,100
+1026,Brunswick School Department,Brunswick High School,1007,173,17.18,42,4.17,215,21.35
+1026,Brunswick School Department,Brunswick Jr High School,615,143,23.25,60,9.76,203,33.01
+1026,Brunswick School Department,Coffin School,412,119,28.88,52,12.62,171,41.5
+1029,Cape Elizabeth School Department,Cape Elizabeth High School,567,24,4.23,7,1.23,31,5.47
+1029,Cape Elizabeth School Department,Cape Elizabeth Middle School,574,28,4.88,4,0.7,32,5.57
+1029,Cape Elizabeth School Department,Pond Cove Elementary,501,28,5.59,7,1.4,35,6.99
+1382,Cathedral School,Cathedral School,162,82,50.62,16,9.88,98,60.49
+5733,Connections For Kids,Park Place,6,6,100,0,0,6,100
+5733,Connections For Kids,Park Place Gorham,6,6,100,0,0,6,100
+1057,Falmouth School Department,Falmouth High School,702,25,3.56,2,0.28,27,3.85
+1057,Falmouth School Department,Falmouth Middle School,699,28,4.01,1,0.14,29,4.15
+1065,Gorham School Department,Gorham High School,846,118,13.95,32,3.78,150,17.73
+1065,Gorham School Department,Gorham Middle School,657,118,17.96,29,4.41,147,22.37
+1065,Gorham School Department,Narragansett Elementary School,436,53,12.16,8,1.83,61,13.99
+1065,Gorham School Department,Village Elementary School-Gorham,600,97,16.17,17,2.83,114,19
+1408,Holy Cross School S Portland,Holy Cross School-S Portland,160,3,1.88,0,0,3,1.88
+1135,Long Island School Department,Long Island Elementary School,14,4,28.57,2,14.29,6,42.86
+1297,Me Educational Ctr For The Deaf & Hard Of Hearing,Governor Baxter School For The Deaf,68,20,29.41,6,8.82,26,38.24
+5099,N F I North,N.F.I. Bridge Crossing,12,7,58.33,0,0,7,58.33
+1134,Portland Public Schools,Casco Bay High School,251,95,37.85,11,4.38,106,42.23
+1134,Portland Public Schools,Deering High School,1073,379,35.32,31,2.89,410,38.21
+1134,Portland Public Schools,East End Community School,402,293,72.89,14,3.48,307,76.37
+1134,Portland Public Schools,Fred P Hall School,461,146,31.67,9,1.95,155,33.62
+1134,Portland Public Schools,Harrison Lyseth Elem School,494,110,22.27,12,2.43,122,24.7
+1134,Portland Public Schools,Howard C Reiche Community Sch,312,231,74.04,12,3.85,243,77.88
+1134,Portland Public Schools,King Middle School,544,283,52.02,22,4.04,305,56.07
+1134,Portland Public Schools,Lincoln Middle School,474,225,47.47,17,3.59,242,51.05
+1134,Portland Public Schools,Longfellow School-Portland,399,80,20.05,6,1.5,86,21.55
+1134,Portland Public Schools,Lyman Moore Middle School,553,238,43.04,30,5.42,268,48.46
+1134,Portland Public Schools,Peaks Island School,52,10,19.23,0,0,10,19.23
+1134,Portland Public Schools,Portland High School,909,439,48.29,33,3.63,472,51.93
+1134,Portland Public Schools,Presumpscot School,277,165,59.57,18,6.5,183,66.06
+1134,Portland Public Schools,Riverton School,480,332,69.17,20,4.17,352,73.33
+3158,Rsu 05,Freeport High School,427,61,14.29,23,5.39,84,19.67
+3158,Rsu 05,Freeport Middle School,267,33,12.36,18,6.74,51,19.1
+3158,Rsu 05,Mast Landing School,256,33,12.89,13,5.08,46,17.97
+3158,Rsu 05,Morse Street School,258,36,13.95,16,6.2,52,20.16
+3158,Rsu 05,Pownal Elementary School,113,17,15.04,9,7.96,26,23.01
+1200,Rsu 06/ Msad 06,Bonny Eagle High School,1264,337,26.66,127,10.05,464,36.71
+1200,Rsu 06/ Msad 06,Edna Libby Elementary School,304,111,36.51,39,12.83,150,49.34
+1200,Rsu 06/ Msad 06,George E Jack School,202,66,32.67,23,11.39,89,44.06
+1200,Rsu 06/ Msad 06,Steep Falls Elementary School,109,31,28.44,13,11.93,44,40.37
+3162,Rsu 14 Raymond/Windham,Jordan-Small Middle School,237,51,21.52,16,6.75,67,28.27
+3162,Rsu 14 Raymond/Windham,Manchester School,395,121,30.63,20,5.06,141,35.7
+3162,Rsu 14 Raymond/Windham,Raymond Elementary School,243,65,26.75,18,7.41,83,34.16
+3162,Rsu 14 Raymond/Windham,Windham High School,1045,194,18.56,53,5.07,247,23.64
+3162,Rsu 14 Raymond/Windham,Windham Middle School,679,174,25.63,43,6.33,217,31.96
+3162,Rsu 14 Raymond/Windham,Windham Primary School,791,231,29.2,35,4.42,266,33.63
+1209,Rsu 15/Msad 15,Burchard A Dunn School,334,84,25.15,25,7.49,109,32.63
+1209,Rsu 15/Msad 15,Gray-New Gloucester High School,557,106,19.03,24,4.31,130,23.34
+1209,Rsu 15/Msad 15,Gray-New Gloucester Middle School,544,130,23.9,34,6.25,164,30.15
+1209,Rsu 15/Msad 15,Memorial School,220,64,29.09,13,5.91,77,35
+1209,Rsu 15/Msad 15,Russell School,278,68,24.46,18,6.47,86,30.94
+1211,Rsu 17/Msad 17,Harrison Elementary,174,97,55.75,28,16.09,125,71.84
+1245,Rsu 51/Msad 51,Drowne Road School,194,14,7.22,1,0.52,15,7.73
+1245,Rsu 51/Msad 51,Greely High School,703,51,7.25,16,2.28,67,9.53
+1245,Rsu 51/Msad 51,Greely Middle School,541,37,6.84,18,3.33,55,10.17
+1245,Rsu 51/Msad 51,Mabel I Wilson School,435,29,6.67,3,0.69,32,7.36
+1245,Rsu 51/Msad 51,North Yarmouth Memorial School,298,22,7.38,9,3.02,31,10.4
+1249,Rsu 55/Msad 55,Baldwin Consolidated School,89,30,33.71,15,16.85,45,50.56
+1255,Rsu 61/Msad 61,Lake Region High School,609,225,36.95,47,7.72,272,44.66
+1255,Rsu 61/Msad 61,Lake Region Middle School,451,196,43.46,46,10.2,242,53.66
+1255,Rsu 61/Msad 61,Sebago Elementary School,107,42,39.25,4,3.74,46,42.99
+1255,Rsu 61/Msad 61,Songo Locks School,320,188,58.75,40,12.5,228,71.25
+1255,Rsu 61/Msad 61,Stevens Brook School,297,245,82.49,41,13.8,286,96.3
+1266,Rsu 75/Msad 75,Harpswell Islands School,97,29,29.9,5,5.15,34,35.05
+1149,Scarborough School Department,Benjamin Wentworth Intermediate,755,91,12.05,31,4.11,122,16.16
+1149,Scarborough School Department,Blue Point School,270,14,5.19,9,3.33,23,8.52
+1149,Scarborough School Department,Eight Corners Elementary School,266,48,18.05,13,4.89,61,22.93
+1149,Scarborough School Department,Pleasant Hill School,215,14,6.51,5,2.33,19,8.84
+1149,Scarborough School Department,Scarborough High School,1091,148,13.57,49,4.49,197,18.06
+1149,Scarborough School Department,Scarborough Middle School,807,83,10.29,27,3.35,110,13.63
+1155,South Portland School Department,Daniel F. Mahoney Middle School,353,113,32.01,19,5.38,132,37.39
+1155,South Portland School Department,Dora L Small Elementary School,306,72,23.53,22,7.19,94,30.72
+1155,South Portland School Department,Dyer Elementary School,286,35,12.24,8,2.8,43,15.03
+1155,South Portland School Department,Frank I Brown Elementary School,280,77,27.5,11,3.93,88,31.43
+1155,South Portland School Department,James Otis Kaler Elementary School,238,110,46.22,14,5.88,124,52.1
+1155,South Portland School Department,Memorial Middle School,351,134,38.18,15,4.27,149,42.45
+1155,South Portland School Department,South Portland High School,904,236,26.11,40,4.42,276,30.53
+1155,South Portland School Department,Waldo T Skillin Elementary School,410,179,43.66,21,5.12,200,48.78
+1375,Spurwink School Inc,Spurwink-Cummings School,42,30,71.43,0,0,30,71.43
+3148,St Brigid School,St Brigid School,330,19,5.76,0,0,19,5.76
+1175,Westbrook School Department,Congin School,310,114,36.77,29,9.35,143,46.13
+1175,Westbrook School Department,Oxford-Cumberland Canal School,209,117,55.98,23,11,140,66.99
+1175,Westbrook School Department,Saccarappa School,274,159,58.03,19,6.93,178,64.96
+1175,Westbrook School Department,Westbrook High School,755,307,40.66,72,9.54,379,50.2
+1175,Westbrook School Department,Westbrook Middle School,532,224,42.11,60,11.28,284,53.38
+1190,Yarmouth Schools,Frank H Harrison Middle School,450,40,8.89,11,2.44,51,11.33
+1190,Yarmouth Schools,William H Rowe School,182,5,2.75,1,0.55,6,3.3
+1190,Yarmouth Schools,Yarmouth Elementary School,287,21,7.32,14,4.88,35,12.2
+1190,Yarmouth Schools,Yarmouth High School,476,26,5.46,5,1.05,31,6.51
+5703,Youth Alternatives,Y.I. Edgewood,6,6,100,0,0,6,100
+3229,Eustis Public Schools,Stratton Elementary School,87,34,39.08,8,9.2,42,48.28
+1203,Rsu 09/ Msad 09,Academy Hill School,195,102,52.31,14,7.18,116,59.49
+1203,Rsu 09/ Msad 09,Cape Cod Hill Elem School,193,95,49.22,14,7.25,109,56.48
+1203,Rsu 09/ Msad 09,Cascade Brook School,270,118,43.7,23,8.52,141,52.22
+1203,Rsu 09/ Msad 09,Gerald D Cushing School,137,82,59.85,9,6.57,91,66.42
+1203,Rsu 09/ Msad 09,Mt Blue High School,772,302,39.12,70,9.07,372,48.19
+1203,Rsu 09/ Msad 09,Mt Blue Middle School,371,151,40.7,39,10.51,190,51.21
+1203,Rsu 09/ Msad 09,W G Mallett School,369,170,46.07,28,7.59,198,53.66
+1252,Rsu 58/ Msad 58,Kingfield Elementary School,152,58,38.16,13,8.55,71,46.71
+1252,Rsu 58/ Msad 58,Mt Abram Regional High School,286,125,43.71,37,12.94,162,56.64
+1252,Rsu 58/ Msad 58,Phillips Elementary School,157,90,57.32,21,13.38,111,70.7
+1252,Rsu 58/ Msad 58,Strong Elementary School,172,94,54.65,15,8.72,109,63.37
+3198,Rsu 73,Jay Elementary School,262,131,50,16,6.11,147,56.11
+3198,Rsu 73,Spruce Mountain Hs North Campus (Jay Hs),248,83,33.47,17,6.85,100,40.32
+3198,Rsu 73,Spruce Mountain Middle (Was Jay Middle),272,105,38.6,28,10.29,133,48.9
+3184,Rsu 78 (Rangeley Area),Rangeley Lakes Regional School,220,94,42.73,5,2.27,99,45
+0,! Doe Inactive,Orland Consolidated School,152,47,30.92,32,21.05,79,51.97
+1284,Airline Csd,Airline Community School,46,16,34.78,8,17.39,24,52.17
+1012,Bar Harbor School Department,Conners-Emerson School,445,38,8.54,14,3.15,52,11.69
+1017,Blue Hill School Department,Blue Hill Consolidated School,215,57,26.51,14,6.51,71,33.02
+1024,Brooklin School Department,Brooklin School,59,21,35.59,36,61.02,57,96.61
+1025,Brooksville School Department,Brooksville Elementary School,68,17,25,11,16.18,28,41.18
+1032,Castine School Department,Adams School,58,4,6.9,2,3.45,6,10.34
+1046,Dedham School Department,Dedham School,166,39,23.49,4,2.41,43,25.9
+1289,Deer Isle-Stonington Csd,Deer Isle-Stonington Elementary Sch,217,69,31.8,34,15.67,103,47.47
+1289,Deer Isle-Stonington Csd,Deer Isle-Stonington High Sch,163,56,34.36,10,6.13,66,40.49
+1339,Kids Peace New England,Kids Peace New England,41,34,82.93,1,2.44,35,85.37
+1112,Mount Desert School Department,Mt Desert Elementary School,153,26,16.99,8,5.23,34,22.22
+1283,Mount Desert (High School),Mt Desert Island High School,564,106,18.79,44,7.8,150,26.6
+1267,Msad 76,Swans Island Elementary School,34,12,35.29,0,0,12,35.29
+1128,Penobscot School Department,Penobscot Elementary School,64,17,26.56,4,6.25,21,32.81
+3169,Rsu 24,Beech Hill School - Rsu 24,98,37,37.76,12,12.24,49,50
+3169,Rsu 24,Cave Hill School,78,32,41.03,12,15.38,44,56.41
+3169,Rsu 24,Dr Charles C Knowlton School,327,110,33.64,36,11.01,146,44.65
+3169,Rsu 24,Ellsworth High School,620,158,25.48,59,9.52,217,35
+3169,Rsu 24,Hancock Grammar School,213,87,40.85,27,12.68,114,53.52
+3169,Rsu 24,Lamoine Consolidated School,114,42,36.84,8,7.02,50,43.86
+3169,Rsu 24,Mountain View School,290,167,57.59,24,8.28,191,65.86
+3169,Rsu 24,Peninsula Csd School,201,101,50.25,16,7.96,117,58.21
+3169,Rsu 24,Sumner Memorial High School,292,108,36.99,31,10.62,139,47.6
+3170,Rsu 25,Bucksport High School,388,102,26.29,19,4.9,121,31.19
+3170,Rsu 25,Bucksport Middle School,265,111,41.89,20,7.55,131,49.43
+3170,Rsu 25,G Herbert Jewett School,110,80,72.73,9,8.18,89,80.91
+3170,Rsu 25,Miles Lane School,256,111,43.36,23,8.98,134,52.34
+1156,Southwest Harbor School Department,Pemetic Elementary School,157,37,23.57,18,11.46,55,35.03
+1159,Surry School Department,Surry Elementary School,88,36,40.91,0,0,36,40.91
+1150,Sedgwick School Department,Sedgwick Elementary School,112,55,49.11,17,15.18,72,64.29
+1162,Tremont School Department,Tremont Consolidated School,130,39,30,8,6.15,47,36.15
+1163,Trenton School Department,Trenton Elementary School,120,49,40.83,17,14.17,66,55
+524,Zzz Sad 24,Zzz Ellsworth Middle School,403,146,36.23,30,7.44,176,43.67
+0,! Doe Inactive,Capital Area Technical Center,0,17,0,1,0,18,0
+1008,Augusta Public Schools,Cony High School,1209,411,34,81,6.7,492,40.69
+1008,Augusta Public Schools,Farrington School,381,221,58.01,26,6.82,247,64.83
+1008,Augusta Public Schools,Lillian Parks Hussey School,206,85,41.26,11,5.34,96,46.6
+1008,Augusta Public Schools,Lincoln School,300,171,57,13,4.33,184,61.33
+1008,Augusta Public Schools,Sylvio J Gilbert School,310,194,62.58,32,10.32,226,72.9
+5027,Becket Family Of Services,Becket - Litchfield,10,10,100,0,0,10,100
+5027,Becket Family Of Services,Belgrade House,12,12,100,0,0,12,100
+5027,Becket Family Of Services,Central Maine Learning Center,25,25,100,0,0,25,100
+1332,Erskine Academy,Erskine Academy,747,139,18.61,42,5.62,181,24.23
+1058,Fayette School Department,Fayette Central School,74,32,43.24,3,4.05,35,47.3
+1415,Mount Merici School,Mount Merici School,175,6,3.43,2,1.14,8,4.57
+5099,N F I North,N.F.I. Sidney Riverbend,6,6,100,0,0,6,100
+3156,Rsu 02 Kennebec Intra-District,Hall-Dale Elementary School,341,118,34.6,19,5.57,137,40.18
+3156,Rsu 02 Kennebec Intra-District,Hall-Dale High School,349,101,28.94,28,8.02,129,36.96
+3156,Rsu 02 Kennebec Intra-District,Hall-Dale Middle School,197,66,33.5,18,9.14,84,42.64
+3156,Rsu 02 Kennebec Intra-District,Henry L Cottrell School,200,67,33.5,15,7.5,82,41
+3156,Rsu 02 Kennebec Intra-District,Monmouth Academy,240,62,25.83,23,9.58,85,35.42
+3156,Rsu 02 Kennebec Intra-District,Monmouth Middle School,283,86,30.39,29,10.25,115,40.64
+3157,Rsu 04,Carrie Ricker Middle School,209,88,42.11,22,10.53,110,52.63
+3157,Rsu 04,Libby-Tozier School,173,76,43.93,15,8.67,91,52.6
+1205,Rsu 11/Msad 11,Gardiner Area High School,699,191,27.32,45,6.44,236,33.76
+1205,Rsu 11/Msad 11,Gardiner Regional Middle School,484,171,35.33,25,5.17,196,40.5
+1205,Rsu 11/Msad 11,Helen Thompson School,277,85,30.69,17,6.14,102,36.82
+1205,Rsu 11/Msad 11,Laura E Richards School,253,104,41.11,10,3.95,114,45.06
+1205,Rsu 11/Msad 11,Pittston Consolidated School,174,54,31.03,19,10.92,73,41.95
+1205,Rsu 11/Msad 11,River View Community School,200,104,52,10,5,114,57
+1205,Rsu 11/Msad 11,Teresa C Hamlin Elem School,117,42,35.9,10,8.55,52,44.44
+3160,Rsu 12 Sheepscot Valley Regional School Unit,Chelsea Elementary School,237,82,34.6,19,8.02,101,42.62
+3160,Rsu 12 Sheepscot Valley Regional School Unit,Windsor Elementary School,285,84,29.47,23,8.07,107,37.54
+3164,Rsu 18,Belgrade Central School,303,102,33.66,18,5.94,120,39.6
+3164,Rsu 18,China Middle School,227,62,27.31,23,10.13,85,37.44
+3164,Rsu 18,China Primary School,251,102,40.64,26,10.36,128,51
+3164,Rsu 18,James H Bean School,353,91,25.78,30,8.5,121,34.28
+3164,Rsu 18,Messalonskee High School,920,191,20.76,69,7.5,260,28.26
+3164,Rsu 18,Messalonskee Middle School,584,140,23.97,66,11.3,206,35.27
+3164,Rsu 18,Ralph M Atwood Primary School,233,115,49.36,16,6.87,131,56.22
+3164,Rsu 18,Williams Elementary School,229,92,40.17,24,10.48,116,50.66
+3173,Rsu 38,Manchester Elementary School,177,32,18.08,8,4.52,40,22.6
+3173,Rsu 38,Maranacook Community High Sch,438,80,18.26,24,5.48,104,23.74
+3173,Rsu 38,Maranacook Community Middle Sch,298,81,27.18,30,10.07,111,37.25
+3173,Rsu 38,Mt Vernon Elementary School,107,40,37.38,12,11.21,52,48.6
+3173,Rsu 38,Phoenix Academy,13,13,100,0,0,13,100
+3173,Rsu 38,Readfield Elementary School,200,66,33,15,7.5,81,40.5
+3173,Rsu 38,Wayne Elementary School,52,12,23.08,4,7.69,16,30.77
+1243,Rsu 49/Msad 49,Albion Elementary School,153,81,52.94,16,10.46,97,63.4
+1243,Rsu 49/Msad 49,Benton Elementary School,666,286,42.94,75,11.26,361,54.2
+1243,Rsu 49/Msad 49,Clinton Elementary School,295,172,58.31,24,8.14,196,66.44
+1375,Spurwink School Inc,Spurwink School--Chelsea,45,39,86.67,1,2.22,40,88.89
+1396,Sweetser Children'S Services,Zzz Waterville Family Focus,5,5,100,0,0,5,100
+1166,Vassalboro School Department,Vassalboro Community School,451,174,38.58,33,7.32,207,45.9
+1170,Waterville Public Schools,Albert S Hall School,237,138,58.23,14,5.91,152,64.14
+1170,Waterville Public Schools,George J Mitchell School,547,349,63.8,32,5.85,381,69.65
+1170,Waterville Public Schools,Waterville Junior High School,432,192,44.44,34,7.87,226,52.31
+1170,Waterville Public Schools,Waterville Senior High School,620,265,42.74,44,7.1,309,49.84
+1185,Winthrop Public Schools,Winthrop Grade School,396,122,30.81,13,3.28,135,34.09
+1185,Winthrop Public Schools,Winthrop High School,251,54,21.51,19,7.57,73,29.08
+1185,Winthrop Public Schools,Winthrop Middle School,196,47,23.98,12,6.12,59,30.1
+1183,Winslow Schools,Winslow Elementary School,569,222,39.02,48,8.44,270,47.45
+1183,Winslow Schools,Winslow High School,534,131,24.53,24,4.49,155,29.03
+1183,Winslow Schools,Winslow Junior High School,331,105,31.72,25,7.55,130,39.27
+0,! Doe Inactive,Georges Valley High School,293,90,30.72,18,6.14,108,36.86
+0,! Doe Inactive,Rockland District High School,427,197,46.14,30,7.03,227,53.16
+1004,Appleton School Department,Appleton Village School,130,37,28.46,11,8.46,48,36.92
+1294,Five Town Csd,Camden Hills Regional H S,669,126,18.83,25,3.74,151,22.57
+1077,Hope School Department,Hope Elementary School,153,34,22.22,10,6.54,44,28.76
+1202,Rsu 08/Msad 08,Vinalhaven School,175,63,36,11,6.29,74,42.29
+3161,Rsu 13,Cushing Community School,71,25,35.21,6,8.45,31,43.66
+3161,Rsu 13,Gilford Butler School,82,29,35.37,2,2.44,31,37.8
+3161,Rsu 13,Lura Libby School,159,82,51.57,11,6.92,93,58.49
+3161,Rsu 13,Macdougal School,143,87,60.84,11,7.69,98,68.53
+3161,Rsu 13,Owls Head Central School,79,19,24.05,4,5.06,23,29.11
+3161,Rsu 13,Rockland District Middle School,295,143,48.47,18,6.1,161,54.58
+3161,Rsu 13,South School,214,119,55.61,19,8.88,138,64.49
+3161,Rsu 13,St George School,197,75,38.07,21,10.66,96,48.73
+3161,Rsu 13,Thomaston Grammar School,196,72,36.73,14,7.14,86,43.88
+1222,Rsu 28/Msad 28,Camden-Rockport Middle School,382,88,23.04,15,3.93,103,26.96
+1222,Rsu 28/Msad 28,Rockport Elementary School,365,63,17.26,16,4.38,79,21.64
+1234,Rsu 40/Msad 40,Friendship Village School,94,44,46.81,7,7.45,51,54.26
+1234,Rsu 40/Msad 40,Prescott Memorial School,115,52,45.22,22,19.13,74,64.35
+1234,Rsu 40/Msad 40,Union Elementary,148,45,30.41,21,14.19,66,44.59
+1234,Rsu 40/Msad 40,Warren Community School,332,151,45.48,32,9.64,183,55.12
+1329,Wayfinder Schools (Community School),Community School,7,7,100,0,0,7,100
+0,! Doe Inactive,N.F.I. Curtis House,4,4,100,0,0,4,100
+3178,Aos 93 Central Lincoln County School System,Bristol Consolidated School,201,68,33.83,14,6.97,82,40.8
+3178,Aos 93 Central Lincoln County School System,Great Salt Bay Community School,404,123,30.45,16,3.96,139,34.41
+3178,Aos 93 Central Lincoln County School System,Jefferson Village School,188,75,39.89,17,9.04,92,48.94
+3178,Aos 93 Central Lincoln County School System,Nobleboro Central School,143,52,36.36,15,10.49,67,46.85
+3178,Aos 93 Central Lincoln County School System,South Bristol Elementary School,64,12,18.75,13,20.31,25,39.06
+1281,Boothbay-Boothbay Hbr Csd,Boothbay Region Elem School,414,140,33.82,42,10.14,182,43.96
+1281,Boothbay-Boothbay Hbr Csd,Boothbay Region High School,254,72,28.35,28,11.02,100,39.37
+1055,Edgecomb School Department,Edgecomb Eddy School,107,35,32.71,6,5.61,41,38.32
+1364,Lincoln Academy,Lincoln Academy,554,111,20.04,19,3.43,130,23.47
+3156,Rsu 02 Kennebec Intra-District,Dresden Elementary School,92,36,39.13,9,9.78,45,48.91
+3160,Rsu 12 Sheepscot Valley Regional School Unit,Somerville Elementary School,43,30,69.77,1,2.33,31,72.09
+3160,Rsu 12 Sheepscot Valley Regional School Unit,Whitefield Elementary School,191,65,34.03,8,4.19,73,38.22
+3160,Rsu 12 Sheepscot Valley Regional School Unit,Wiscasset High School,230,84,36.52,16,6.96,100,43.48
+3160,Rsu 12 Sheepscot Valley Regional School Unit,Wiscasset Middle School,197,78,39.59,19,9.64,97,49.24
+3160,Rsu 12 Sheepscot Valley Regional School Unit,Wiscasset Primary School,234,99,42.31,24,10.26,123,52.56
+1234,Rsu 40/Msad 40,Medomak Middle School,293,136,46.42,29,9.9,165,56.31
+1234,Rsu 40/Msad 40,Medomak Valley High School,615,233,37.89,52,8.46,285,46.34
+1234,Rsu 40/Msad 40,Miller School,349,204,58.45,23,6.59,227,65.04
+1154,Southport School Department,Southport Central School,33,9,27.27,2,6.06,11,33.33
+0,! Doe Inactive,Greenleaf Home,8,8,100,0,0,8,100
+0,! Doe Inactive,Leeds Bridge,6,6,100,0,0,6,100
+1348,Fryeburg Academy,Fryeburg Academy,690,212,30.72,39,5.65,251,36.38
+1394,Holy Savior School,Holy Savior School,54,5,9.26,0,0,5,9.26
+3159,Rsu 10 Western Foothills,Buckfield Jr-Sr High School,311,166,53.38,30,9.65,196,63.02
+3159,Rsu 10 Western Foothills,Dirigo Elementary School,349,180,51.58,31,8.88,211,60.46
+3159,Rsu 10 Western Foothills,Dirigo High School,314,123,39.17,24,7.64,147,46.82
+3159,Rsu 10 Western Foothills,Hartford-Sumner Elementary School,342,193,56.43,31,9.06,224,65.5
+3159,Rsu 10 Western Foothills,Meroby Elementary School,332,226,68.07,31,9.34,257,77.41
+3159,Rsu 10 Western Foothills,Mountain Valley High School,508,248,48.82,47,9.25,295,58.07
+3159,Rsu 10 Western Foothills,Mountain Valley Middle School,287,187,65.16,21,7.32,208,72.47
+3159,Rsu 10 Western Foothills,Rumford Elementary,261,213,81.61,8,3.07,221,84.67
+3159,Rsu 10 Western Foothills,T W Kelly Dirigo Middle School,238,98,41.18,22,9.24,120,50.42
+1211,Rsu 17/Msad 17,Agnes Gray School,95,44,46.32,16,16.84,60,63.16
+1211,Rsu 17/Msad 17,Guy E Rowe School,406,229,56.4,42,10.34,271,66.75
+1211,Rsu 17/Msad 17,Hebron Station School,121,27,22.31,8,6.61,35,28.93
+1211,Rsu 17/Msad 17,Legion Memorial School,28,17,60.71,2,7.14,19,67.86
+1211,Rsu 17/Msad 17,Otisfield Community School,133,44,33.08,24,18.05,68,51.13
+1211,Rsu 17/Msad 17,Oxford Elementary School,343,207,60.35,29,8.45,236,68.8
+1211,Rsu 17/Msad 17,Oxford Hills Comprehensive H S,1087,496,45.63,97,8.92,593,54.55
+1211,Rsu 17/Msad 17,Oxford Hills Middle School,553,260,47.02,54,9.76,314,56.78
+1211,Rsu 17/Msad 17,Paris Elementary School,476,276,57.98,31,6.51,307,64.5
+1211,Rsu 17/Msad 17,Waterford Memorial School,101,55,54.46,7,6.93,62,61.39
+1238,Rsu 44 / Msad 44,Andover Elementary School,32,16,50,3,9.38,19,59.38
+1238,Rsu 44 / Msad 44,Crescent Park School,295,125,42.37,21,7.12,146,49.49
+1238,Rsu 44 / Msad 44,Telstar High School,286,120,41.96,31,10.84,151,52.8
+1238,Rsu 44 / Msad 44,Telstar Middle School,208,86,41.35,29,13.94,115,55.29
+1238,Rsu 44 / Msad 44,Woodstock School,84,36,42.86,8,9.52,44,52.38
+1249,Rsu 55/Msad 55,Sacopee Valley High Sch,410,168,40.98,41,10,209,50.98
+1249,Rsu 55/Msad 55,Sacopee Valley Middle School,395,188,47.59,37,9.37,225,56.96
+1249,Rsu 55/Msad 55,South Hiram Elementary School,222,132,59.46,17,7.66,149,67.12
+1264,Rsu 72 / Msad 72,Charles A Snow School,213,113,53.05,5,2.35,118,55.4
+1264,Rsu 72 / Msad 72,Denmark Elementary School,98,44,44.9,6,6.12,50,51.02
+1264,Rsu 72 / Msad 72,Molly Ockett Middle School,286,107,37.41,17,5.94,124,43.36
+1264,Rsu 72 / Msad 72,New Suncook School,198,78,39.39,20,10.1,98,49.49
+1278,Rumford-Region 9,School Of Applied Tech-Region 9,176,84,47.73,7,3.98,91,51.7
+0,! Doe Inactive,Brewer Middle School,275,77,28,14,5.09,91,33.09
+0,! Doe Inactive,Capri Street School,153,59,38.56,9,5.88,68,44.44
+0,! Doe Inactive,Dexter Middle School,288,165,57.29,22,7.64,187,64.93
+0,! Doe Inactive,Dexter Primary School,253,159,62.85,12,4.74,171,67.59
+0,! Doe Inactive,Exeter Consolidated School,66,38,57.58,13,19.7,51,77.27
+0,! Doe Inactive,Garland Elementary School,64,37,57.81,8,12.5,45,70.31
+0,! Doe Inactive,Millinocket Middle School,127,63,49.61,15,11.81,78,61.42
+0,! Doe Inactive,State Street School,205,62,30.24,12,5.85,74,36.1
+0,! Doe Inactive,Washington Street School Bldg,312,111,35.58,9,2.88,120,38.46
+1011,Bangor School Department,Abraham Lincoln School,220,87,39.55,7,3.18,94,42.73
+1011,Bangor School Department,Bangor High School,1280,348,27.19,63,4.92,411,32.11
+1011,Bangor School Department,Downeast School,326,269,82.52,20,6.13,289,88.65
+1011,Bangor School Department,Fairmount School,240,129,53.75,20,8.33,149,62.08
+1011,Bangor School Department,Fourteenth Street School,159,49,30.82,7,4.4,56,35.22
+1011,Bangor School Department,Fruit Street School,326,70,21.47,21,6.44,91,27.91
+1011,Bangor School Department,James F. Doughty School,415,236,56.87,35,8.43,271,65.3
+1011,Bangor School Department,Mary Snow School,231,73,31.6,18,7.79,91,39.39
+1011,Bangor School Department,Vine Street School,271,135,49.82,20,7.38,155,57.2
+1011,Bangor School Department,William S. Cohen School,389,115,29.56,36,9.25,151,38.82
+1021,Brewer School Department,Brewer High School,758,165,21.77,32,4.22,197,25.99
+1052,East Millinocket School Department,Opal Myrick Elementary School,155,87,56.13,14,9.03,101,65.16
+1052,East Millinocket School Department,Schenck High School,172,72,41.86,24,13.95,96,55.81
+1063,Glenburn Public Schools,Glenburn Elementary School,424,106,25,34,8.02,140,33.02
+1069,Greenbush School Department,Helen S Dunn Elementary School,153,75,49.02,18,11.76,93,60.78
+1074,Hermon School Department,Hermon Elementary School,352,84,23.86,21,5.97,105,29.83
+1074,Hermon School Department,Hermon High School,544,113,20.77,23,4.23,136,25
+1074,Hermon School Department,Hermon Middle School,262,44,16.79,17,6.49,61,23.28
+1270,Indian Island,Indian Island School,130,84,64.62,45,34.62,129,99.23
+1271,Indian Township,Peter Dana School,130,116,89.23,12,9.23,128,98.46
+5604,Kingman School,Kingman Elementary School,16,12,75,1,6.25,13,81.25
+1356,Lee Academy,Lee Academy,269,91,33.83,28,10.41,119,44.24
+1105,Medway School Department,Medway Middle School,161,75,46.58,21,13.04,96,59.63
+1106,Milford School Department,Dr Lewis S Libby School,304,129,42.43,30,9.87,159,52.3
+1107,Millinocket School Department,Granite Street School,224,129,57.59,12,5.36,141,62.95
+1107,Millinocket School Department,Stearns High School,201,78,38.81,30,14.93,108,53.73
+1298,Mountain View Youth Dev Ctr,Mountain View Youth Dev Ctr,85,85,100,0,0,85,100
+1240,Msad 46,Dexter Regional High School,499,256,51.3,45,9.02,301,60.32
+5099,N F I North,N.F.I. Summit View,4,4,100,0,0,4,100
+1124,Orrington School Department,Center Drive School,402,93,23.13,14,3.48,107,26.62
+3165,Rsu 19,Corinna Elementary School,166,91,54.82,14,8.43,105,63.25
+3165,Rsu 19,Etna-Dixmont School,280,122,43.57,40,14.29,162,57.86
+3165,Rsu 19,Newport Elementary School,315,154,48.89,29,9.21,183,58.1
+3165,Rsu 19,Nokomis Regional High School,740,447,60.41,58,7.84,505,68.24
+3165,Rsu 19,Sebasticook Valley Middle School,339,152,44.84,36,10.62,188,55.46
+1216,Rsu 22/Msad 22,Earl C Mcgraw School,254,29,11.42,12,4.72,41,16.14
+1216,Rsu 22/Msad 22,George B Weatherbee School,277,44,15.88,14,5.05,58,20.94
+1216,Rsu 22/Msad 22,Hampden Academy,761,156,20.5,41,5.39,197,25.89
+1216,Rsu 22/Msad 22,Newburgh Elementary School,95,39,41.05,8,8.42,47,49.47
+1216,Rsu 22/Msad 22,Reeds Brook Middle School,354,53,14.97,13,3.67,66,18.64
+3171,Rsu 26 Orono,Asa C Adams School,255,72,28.24,6,2.35,78,30.59
+3171,Rsu 26 Orono,Orono High School,336,78,23.21,17,5.06,95,28.27
+3171,Rsu 26 Orono,Orono Middle School,141,35,24.82,2,1.42,37,26.24
+1224,Rsu 30/Msad 30,Lee/Winn School,101,61,60.4,15,14.85,76,75.25
+1224,Rsu 30/Msad 30,Mt Jefferson Jr High School,108,62,57.41,20,18.52,82,75.93
+1225,Rsu 31/Msad 31,Enfield Station Elementary School,273,141,51.65,31,11.36,172,63
+1225,Rsu 31/Msad 31,Hichborn Middle School,132,60,45.45,19,14.39,79,59.85
+1225,Rsu 31/Msad 31,Penobscot Valley High School,186,78,41.94,17,9.14,95,51.08
+3172,Rsu 34 Old Town/ Alton/ Bradley,Alton Elementary School,54,16,29.63,6,11.11,22,40.74
+3172,Rsu 34 Old Town/ Alton/ Bradley,Leonard Middle School,279,104,37.28,18,6.45,122,43.73
+3172,Rsu 34 Old Town/ Alton/ Bradley,Old Town Elementary School,514,247,48.05,42,8.17,289,56.23
+3172,Rsu 34 Old Town/ Alton/ Bradley,Old Town High School,617,201,32.58,57,9.24,258,41.82
+3172,Rsu 34 Old Town/ Alton/ Bradley,Viola Rand School,75,13,17.33,9,12,22,29.33
+1235,Rsu 41/Msad 41,Marion C Cook School,48,26,54.17,9,18.75,35,72.92
+3199,Rsu 50,Katahdin Elementary School,223,133,59.64,18,8.07,151,67.71
+3199,Rsu 50,Katahdin Middle/High School,192,90,46.88,19,9.9,109,56.77
+1257,Rsu 63/Msad 63,Eddington School,177,61,34.46,17,9.6,78,44.07
+1257,Rsu 63/Msad 63,Holbrook School,288,78,27.08,21,7.29,99,34.38
+1257,Rsu 63/Msad 63,Holden School,164,26,15.85,1,0.61,27,16.46
+1258,Rsu 64/Msad 64,Bradford Elementary School,80,53,66.25,12,15,65,81.25
+1258,Rsu 64/Msad 64,Central High School,369,155,42.01,29,7.86,184,49.86
+1258,Rsu 64/Msad 64,Central Middle School,276,104,37.68,26,9.42,130,47.1
+1258,Rsu 64/Msad 64,Hudson Elementary School,46,4,8.7,23,50,27,58.7
+1258,Rsu 64/Msad 64,Kenduskeag Elementary School,173,95,54.91,12,6.94,107,61.85
+1258,Rsu 64/Msad 64,Morison Memorial School,221,94,42.53,19,8.6,113,51.13
+1258,Rsu 64/Msad 64,Stetson Elementary School,41,17,41.46,2,4.88,19,46.34
+3175,Rsu 67,Ella P Burr School,441,251,56.92,47,10.66,298,67.57
+3175,Rsu 67,Mattanawcook Academy,399,129,32.33,45,11.28,174,43.61
+3175,Rsu 67,Mattanawcook Jr High School,372,165,44.35,39,10.48,204,54.84
+3175,Rsu 67,No Penobscot Tech-Region 3,0,90,0,28,0,118,0
+1217,Rsu 87/Msad 23,Caravel Middle School,227,73,32.16,20,8.81,93,40.97
+1217,Rsu 87/Msad 23,Carmel Elementary School,232,88,37.93,24,10.34,112,48.28
+1217,Rsu 87/Msad 23,Suzanne M Smith Elementary School,211,88,41.71,17,8.06,105,49.76
+1167,Veazie Public Schools,Veazie Community School,176,41,23.3,11,6.25,52,29.55
+0,! Doe Inactive,Carroll L Mckusick School,126,81,64.29,9,7.14,90,71.43
+0,! Doe Inactive,Greenville Middle/High School,140,54,38.57,15,10.71,69,49.29
+0,! Doe Inactive,Guilford Primary School,98,51,52.04,15,15.31,66,67.35
+0,! Doe Inactive,Nickerson Elementary School,110,50,45.45,8,7.27,58,52.73
+1335,Foxcroft Academy,Foxcroft Academy,451,127,28.16,26,5.76,153,33.92
+1235,Rsu 41/Msad 41,Brownville Elementary School,106,68,64.15,7,6.6,75,70.75
+1235,Rsu 41/Msad 41,Milo Elementary School,238,176,73.95,28,11.76,204,85.71
+1235,Rsu 41/Msad 41,Penquis Valley High School,332,179,53.92,51,15.36,230,69.28
+1261,Rsu 68/Msad 68,Se Do Mo Cha Elementary School,320,145,45.31,29,9.06,174,54.38
+1261,Rsu 68/Msad 68,Se Do Mo Cha Middle School,338,136,40.24,26,7.69,162,47.93
+1198,Rsu 80/Msad 4,Piscataquis Community Elementary School,257,121,47.08,35,13.62,156,60.7
+1198,Rsu 80/Msad 4,Piscataquis Community Secondary School,222,98,44.14,44,19.82,142,63.96
+1061,Georgetown School Department,Georgetown Central School,77,19,24.68,5,6.49,24,31.17
+5099,N F I North,N.F.I. Oliver Place,4,4,100,0,0,4,100
+3152,Rsu 01 - Lower Kennebec Rsu,Bath Middle School,342,124,36.26,25,7.31,149,43.57
+3152,Rsu 01 - Lower Kennebec Rsu,Dike-Newell School,284,119,41.9,17,5.99,136,47.89
+3152,Rsu 01 - Lower Kennebec Rsu,Fisher-Mitchell School,242,116,47.93,19,7.85,135,55.79
+3152,Rsu 01 - Lower Kennebec Rsu,Morse High School Bath 1171,711,179,25.18,40,5.63,219,30.8
+3152,Rsu 01 - Lower Kennebec Rsu,Phippsburg Elementary School,125,29,23.2,10,8,39,31.2
+3152,Rsu 01 - Lower Kennebec Rsu,West Bath School,137,46,33.58,12,8.76,58,42.34
+3152,Rsu 01 - Lower Kennebec Rsu,Woolwich Central School,327,63,19.27,23,7.03,86,26.3
+3156,Rsu 02 Kennebec Intra-District,Marcia Buker School,257,98,38.13,25,9.73,123,47.86
+3156,Rsu 02 Kennebec Intra-District,Richmond High School,156,51,32.69,12,7.69,63,40.38
+3156,Rsu 02 Kennebec Intra-District,Richmond Middle School,103,43,41.75,10,9.71,53,51.46
+1266,Rsu 75/Msad 75,Bowdoin Central School,229,66,28.82,19,8.3,85,37.12
+1266,Rsu 75/Msad 75,Bowdoinham Community School,207,73,35.27,24,11.59,97,46.86
+1266,Rsu 75/Msad 75,Mt Ararat High School,890,197,22.13,67,7.53,264,29.66
+1266,Rsu 75/Msad 75,Mt Ararat Middle School,647,162,25.04,50,7.73,212,32.77
+1266,Rsu 75/Msad 75,Williams-Cone School,220,30,13.64,15,6.82,45,20.45
+1266,Rsu 75/Msad 75,Woodside Elementary School,375,77,20.53,26,6.93,103,27.47
+0,! Doe Inactive,Palmyra Consolidated School,80,45,56.25,4,5,49,61.25
+0,! Doe Inactive,Starks Elementary School,22,12,54.55,2,9.09,14,63.64
+3231,Athens Public Schools,Athens Elementary School,149,81,54.36,20,13.42,101,67.79
+5027,Becket Family Of Services,Becket @ Norridgewock,8,8,100,0,0,8,100
+1073,Harmony School Dept,Harmony Elementary,100,49,49,6,6,55,55
+1369,Maine Central Institute,Maine Central Institute,450,72,16,19,4.22,91,20.22
+3165,Rsu 19,Hartland Consolidated School,150,102,68,12,8,114,76
+3165,Rsu 19,Somerset Valley Middle School,264,163,61.74,24,9.09,187,70.83
+3165,Rsu 19,St Albans Consolidated,101,75,74.26,9,8.91,84,83.17
+1243,Rsu 49/Msad 49,Fairfield Primary School,182,112,61.54,22,12.09,134,73.63
+1243,Rsu 49/Msad 49,Lawrence High School,813,286,35.18,70,8.61,356,43.79
+1243,Rsu 49/Msad 49,Lawrence Jr High School,357,153,42.86,43,12.04,196,54.9
+1247,Rsu 53/Msad 53,Manson Park School,112,40,35.71,6,5.36,46,41.07
+1247,Rsu 53/Msad 53,Vickery School,222,111,50,16,7.21,127,57.21
+1247,Rsu 53/Msad 53,Warsaw Middle School,331,170,51.36,20,6.04,190,57.4
+1248,Rsu 54 / Msad 54,Bloomfield Elementary School,355,202,56.9,31,8.73,233,65.63
+1248,Rsu 54 / Msad 54,Canaan Elementary School,244,153,62.7,21,8.61,174,71.31
+1248,Rsu 54 / Msad 54,Cornville Elementary School,92,32,34.78,13,14.13,45,48.91
+1248,Rsu 54 / Msad 54,Margaret Chase Smith Sch.-Skowhegan,234,134,57.26,22,9.4,156,66.67
+1248,Rsu 54 / Msad 54,Mill Stream Elementary School,372,175,47.04,39,10.48,214,57.53
+1248,Rsu 54 / Msad 54,North Elementary School,201,119,59.2,15,7.46,134,66.67
+1248,Rsu 54 / Msad 54,Skowhegan Area High School,863,363,42.06,96,11.12,459,53.19
+1248,Rsu 54 / Msad 54,Skowhegan Area Middle School,415,181,43.61,37,8.92,218,52.53
+1253,Rsu 59/Msad 59,Madison Area Memorial H S,285,146,51.23,39,13.68,185,64.91
+1253,Rsu 59/Msad 59,Madison Elementary School,294,156,53.06,39,13.27,195,66.33
+1253,Rsu 59/Msad 59,Madison Junior High School,267,128,47.94,33,12.36,161,60.3
+1265,Rsu 74/Msad 74,Carrabec Community School,304,164,53.95,41,13.49,205,67.43
+1265,Rsu 74/Msad 74,Carrabec High School,268,138,51.49,26,9.7,164,61.19
+1265,Rsu 74/Msad 74,Embden Elementary School,36,10,27.78,7,19.44,17,47.22
+1265,Rsu 74/Msad 74,Garret Schenck School,77,46,59.74,7,9.09,53,68.83
+1265,Rsu 74/Msad 74,Solon Elementary School,84,49,58.33,7,8.33,56,66.67
+1206,Rsu 82/Msad 12,Forest Hills Consolidated School,168,67,39.88,18,10.71,85,50.6
+1207,Rsu 83/Msad 13,Moscow Elementary,81,50,61.73,14,17.28,64,79.01
+1207,Rsu 83/Msad 13,Quimby Middle School,78,28,35.9,20,25.64,48,61.54
+1207,Rsu 83/Msad 13,Upper Kennebec Valley Senior Hs,78,52,66.67,6,7.69,58,74.36
+5722,Youth & Family Services,Halcyon House Y.F.S.,10,10,100,0,0,10,100
+0,! Doe Inactive,Plymouth Farm Family Focus,5,4,80,0,0,4,80
+0,! Doe Inactive,The School At Sweetser Belfast,20,6,30,0,0,6,30
+1079,Islesboro School Department,Islesboro Central School,86,19,22.09,3,3.49,22,25.58
+1091,Lincolnville School Department,Lincolnville Central School,195,50,25.64,12,6.15,62,31.79
+1197,Rsu 03/Msad 03,Monroe Elementary School,57,39,68.42,4,7.02,43,75.44
+1197,Rsu 03/Msad 03,Morse Memorial School,117,79,67.52,15,12.82,94,80.34
+1197,Rsu 03/Msad 03,Mt View Elementary School,265,162,61.13,32,12.08,194,73.21
+1197,Rsu 03/Msad 03,Mt View High School,475,236,49.68,65,13.68,301,63.37
+1197,Rsu 03/Msad 03,Mt View Jr High School,329,172,52.28,49,14.89,221,67.17
+1197,Rsu 03/Msad 03,Troy Central School,73,34,46.58,9,12.33,43,58.9
+1197,Rsu 03/Msad 03,Unity Elementary School,88,72,81.82,3,3.41,75,85.23
+1197,Rsu 03/Msad 03,Walker Memorial School,93,57,61.29,18,19.35,75,80.65
+3160,Rsu 12 Sheepscot Valley Regional School Unit,Palermo Consolidated School,144,37,25.69,5,3.47,42,29.17
+3166,Rsu 20,Ames Elementary School,117,54,46.15,17,14.53,71,60.68
+3166,Rsu 20,Belfast Area High School,637,240,37.68,41,6.44,281,44.11
+3166,Rsu 20,Captain Albert W. Stevens School,300,158,52.67,19,6.33,177,59
+3166,Rsu 20,East Belfast School,140,72,51.43,5,3.57,77,55
+3166,Rsu 20,Edna Drinkwater School,96,42,43.75,4,4.17,46,47.92
+3166,Rsu 20,Frankfort Elementary School,91,46,50.55,11,12.09,57,62.64
+3166,Rsu 20,Gladys Weymouth Elem School,105,48,45.71,10,9.52,58,55.24
+3166,Rsu 20,Kermit S Nickerson School,71,50,70.42,7,9.86,57,80.28
+3166,Rsu 20,Searsport District High School,202,96,47.52,16,7.92,112,55.45
+3166,Rsu 20,Searsport District Middle School,165,99,60,17,10.3,116,70.3
+3166,Rsu 20,Searsport Elementary,190,94,49.47,15,7.89,109,57.37
+3166,Rsu 20,Stockton Springs Elementary Sch,92,35,38.04,10,10.87,45,48.91
+3166,Rsu 20,Troy A Howard Middle School,407,178,43.73,35,8.6,213,52.33
+1216,Rsu 22/Msad 22,Leroy H Smith School,283,112,39.58,26,9.19,138,48.76
+1216,Rsu 22/Msad 22,Samuel L Wagner Middle School,145,56,38.62,14,9.66,70,48.28
+1247,Rsu 53/Msad 53,Burnham Village School,65,28,43.08,8,12.31,36,55.38
+1396,Sweetser Children'S Services,Belfast Crisis Unit,5,4,80,0,0,4,80
+1396,Sweetser Children'S Services,Plymouth Farm Sis,6,5,83.33,0,0,5,83.33
+1396,Sweetser Children'S Services,Sis Belfast,8,5,62.5,0,0,5,62.5
+1001,Alexander School Department,Alexander Elementary,59,25,42.37,7,11.86,32,54.24
+1009,Baileyville School Department,Woodland Elementary School,138,70,50.72,13,9.42,83,60.14
+1009,Baileyville School Department,Woodland Jr-Sr High School,239,100,41.84,20,8.37,120,50.21
+1014,Beals School Department,Beals Elementary School,41,22,53.66,2,4.88,24,58.54
+1028,Calais School Department,Calais Elementary School,280,154,55,26,9.29,180,64.29
+1028,Calais School Department,Calais Middle/High School,393,159,40.46,45,11.45,204,51.91
+1035,Charlotte School Department,Charlotte Elementary School,37,17,45.95,3,8.11,20,54.05
+3230,Cherryfield Public Schools,Cherryfield Elementary,82,43,52.44,11,13.41,54,65.85
+3136,Cutler School Department,Bay Ridge Elementary,52,13,25,10,19.23,23,44.23
+3129,East Machias School Department,Elm Street School-East Machias,186,86,46.24,23,12.37,109,58.6
+1288,East Range Csd,East Range I I School,36,23,63.89,5,13.89,28,77.78
+5603,Edmunds Consolodated School,Edmunds Consolidated School,70,26,37.14,8,11.43,34,48.57
+1054,Eastport School Department,Eastport Elementary School,92,55,59.78,9,9.78,64,69.57
+1054,Eastport School Department,Shead High School,123,59,47.97,15,12.2,74,60.16
+1083,Jonesport School Department,Jonesport Elementary School,141,94,66.67,5,3.55,99,70.21
+1082,Jonesboro School Department,Jonesboro Elementary School,57,40,70.18,4,7.02,44,77.19
+3137,Machiasport School Department,Fort O'Brien School,57,32,56.14,7,12.28,39,68.42
+1292,Moosabec Csd,Jonesport-Beals High School,85,49,57.65,2,2.35,51,60
+1095,Machias School Department,Machias Memorial High School,137,56,40.88,10,7.3,66,48.18
+1095,Machias School Department,Rose M Gaffney School,334,179,53.59,21,6.29,200,59.88
+5099,N F I North,N.F.I. Stetson,6,6,100,0,0,6,100
+1129,Perry School Department,Perry Elementary School,99,47,47.47,8,8.08,55,55.56
+1136,Princeton School Department,Princeton Elementary School,121,64,52.89,9,7.44,73,60.33
+1127,Pembroke School Department,Pembroke Elementary School,102,60,58.82,8,7.84,68,66.67
+1272,Pleasant Point,Beatrice Rafferty School,105,90,85.71,9,8.57,99,94.29
+1143,Robbinston School Department,Robbinston Grade School,61,36,59.02,1,1.64,37,60.66
+3169,Rsu 24,Ella Lewis School,92,55,59.78,7,7.61,62,67.39
+1231,Rsu 37/Msad 37,Daniel W Merritt School,148,86,58.11,13,8.78,99,66.89
+1231,Rsu 37/Msad 37,Harrington Elementary School,157,83,52.87,23,14.65,106,67.52
+1231,Rsu 37/Msad 37,Milbridge Elementary School,118,69,58.47,18,15.25,87,73.73
+1231,Rsu 37/Msad 37,Narraguagus High School,232,103,44.4,24,10.34,127,54.74
+1208,Rsu 84 /Msad 14,East Grand School,163,102,62.58,29,17.79,131,80.37
+1213,Rsu 85/Msad 19,Lubec Consolidated School,140,103,73.57,0,0,103,73.57
+1165,Vanceboro School Department,Vanceboro Elementary School,20,7,35,3,15,10,50
+1336,Washington Academy,Washington Academy,413,102,24.7,23,5.57,125,30.27
+1173,Wesley School Department,Wesley Elementary School,7,5,71.43,0,0,5,71.43
+3138,Whiting School Department,Whiting Village School,48,21,43.75,7,14.58,28,58.33
+0,! Doe Inactive,Eliza Libby Elem School,111,27,24.32,9,8.11,36,32.43
+0,! Doe Inactive,Frank Jewett School,229,66,28.82,27,11.79,93,40.61
+0,! Doe Inactive,Fred W Morrill School,42,18,42.86,3,7.14,21,50
+0,! Doe Inactive,Jack Memorial School,179,62,34.64,22,12.29,84,46.93
+0,! Doe Inactive,Samuel D Hanson School,115,36,31.3,12,10.43,48,41.74
+0,! Doe Inactive,Y.A. Bass House,6,4,66.67,0,0,4,66.67
+1000,Acton School Department,Acton Elementary School,254,95,37.4,15,5.91,110,43.31
+1016,Biddeford School Department,Biddeford High School,902,289,32.04,37,4.1,326,36.14
+1016,Biddeford School Department,Biddeford Intermediate School,410,190,46.34,24,5.85,214,52.2
+1016,Biddeford School Department,Biddeford Middle School,609,255,41.87,33,5.42,288,47.29
+1016,Biddeford School Department,Biddeford Primary School,530,268,50.57,29,5.47,297,56.04
+1016,Biddeford School Department,John F Kennedy Memorial School,234,125,53.42,9,3.85,134,57.26
+5005,Good Shepard Parish Schools,Notre-Dame-De-Lourdes,300,15,5,5,1.67,20,6.67
+1085,Kittery School Department,Horace Mitchell Primary School,331,75,22.66,30,9.06,105,31.72
+1085,Kittery School Department,Robert W Traip Academy,279,58,20.79,27,9.68,85,30.47
+1085,Kittery School Department,Shapleigh Middle School,366,88,24.04,24,6.56,112,30.6
+5099,N F I North,N.F.I. Beacon House,8,8,100,0,0,8,100
+1200,Rsu 06/ Msad 06,Bonny Eagle Middle School,913,292,31.98,96,10.51,388,42.5
+1200,Rsu 06/ Msad 06,H B Emery Jr Memorial School,193,88,45.6,19,9.84,107,55.44
+1200,Rsu 06/ Msad 06,Hollis School,358,129,36.03,23,6.42,152,42.46
+3167,Rsu 21,Kennebunk Elementary School,470,80,17.02,15,3.19,95,20.21
+3167,Rsu 21,Kennebunk High School,800,102,12.75,21,2.63,123,15.38
+3167,Rsu 21,Kennebunkport Consolidated Sch,197,32,16.24,8,4.06,40,20.3
+3167,Rsu 21,Middle School Of The Kennebunks,528,85,16.1,26,4.92,111,21.02
+3167,Rsu 21,Mildred L Day School,251,56,22.31,8,3.19,64,25.5
+3167,Rsu 21,Sea Road School,243,40,16.46,10,4.12,50,20.58
+3168,Rsu 23 Old Orchard/ Dayton/ Saco,C K Burns School,646,231,35.76,48,7.43,279,43.19
+3168,Rsu 23 Old Orchard/ Dayton/ Saco,Dayton Consolidated School,141,27,19.15,5,3.55,32,22.7
+3168,Rsu 23 Old Orchard/ Dayton/ Saco,Governor John Fairfield School,293,123,41.98,26,8.87,149,50.85
+3168,Rsu 23 Old Orchard/ Dayton/ Saco,Jameson Elementary School,214,95,44.39,18,8.41,113,52.8
+3168,Rsu 23 Old Orchard/ Dayton/ Saco,Loranger Middle School,337,141,41.84,32,9.5,173,51.34
+3168,Rsu 23 Old Orchard/ Dayton/ Saco,Old Orchard Beach High School,304,110,36.18,29,9.54,139,45.72
+3168,Rsu 23 Old Orchard/ Dayton/ Saco,Saco Middle School,749,197,26.3,53,7.08,250,33.38
+3168,Rsu 23 Old Orchard/ Dayton/ Saco,Young School,323,64,19.81,17,5.26,81,25.08
+1229,Rsu 35/Msad 35,Central School,456,66,14.47,6,1.32,72,15.79
+1229,Rsu 35/Msad 35,Eliot Elementary School,319,45,14.11,15,4.7,60,18.81
+1229,Rsu 35/Msad 35,Marshwood Great Works School,358,59,16.48,19,5.31,78,21.79
+1229,Rsu 35/Msad 35,Marshwood High School,775,0,0,0,0,0,0
+1229,Rsu 35/Msad 35,Marshwood Middle School,562,69,12.28,25,4.45,94,16.73
+1249,Rsu 55/Msad 55,Cornish Elementary School,69,19,27.54,7,10.14,26,37.68
+1251,Rsu 57/Msad 57,Alfred Elementary School,209,50,23.92,13,6.22,63,30.14
+1251,Rsu 57/Msad 57,Line Elementary,321,121,37.69,25,7.79,146,45.48
+1251,Rsu 57/Msad 57,Lyman Elementary School,254,72,28.35,9,3.54,81,31.89
+1251,Rsu 57/Msad 57,Massabesic High School,1195,339,28.37,125,10.46,464,38.83
+1251,Rsu 57/Msad 57,Massabesic Middle School,785,259,32.99,73,9.3,332,42.29
+1251,Rsu 57/Msad 57,Shapleigh Memorial School,160,48,30,10,6.25,58,36.25
+1251,Rsu 57/Msad 57,Waterboro Elementary School,547,196,35.83,55,10.05,251,45.89
+1254,Rsu 60/Msad 60,Eric L Knowlton School,311,105,33.76,24,7.72,129,41.48
+1254,Rsu 60/Msad 60,Lebanon School,477,208,43.61,65,13.63,273,57.23
+1254,Rsu 60/Msad 60,Noble High School,1038,261,25.14,76,7.32,337,32.47
+1254,Rsu 60/Msad 60,Noble Middle School,474,175,36.92,51,10.76,226,47.68
+1254,Rsu 60/Msad 60,North Berwick Elementary School,305,76,24.92,16,5.25,92,30.16
+1254,Rsu 60/Msad 60,Vivian E Hussey Primary,508,176,34.65,44,8.66,220,43.31
+1148,Sanford School Department,Carl J Lamb School,561,278,49.55,53,9.45,331,59
+1148,Sanford School Department,Emerson School,131,99,75.57,8,6.11,107,81.68
+1148,Sanford School Department,Lafayette School,102,74,72.55,6,5.88,80,78.43
+1148,Sanford School Department,Margaret Chase Smith Sch.-Sanford,371,159,42.86,22,5.93,181,48.79
+1148,Sanford School Department,Sanford High School,1295,458,35.37,78,6.02,536,41.39
+1148,Sanford School Department,Sanford Jr High School,475,213,44.84,40,8.42,253,53.26
+1148,Sanford School Department,Willard School,464,243,52.37,33,7.11,276,59.48
+1401,St Thomas School,St Thomas School,158,11,6.96,8,5.06,19,12.03
+1396,Sweetser Children'S Services,Saco Family Focus,5,3,60,0,0,3,60
+1396,Sweetser Children'S Services,Sweetser Children'S Service,45,30,66.67,0,0,30,66.67
+1293,Wells-Ogunquit Csd,Wells Elementary School,518,89,17.18,21,4.05,110,21.24
+1293,Wells-Ogunquit Csd,Wells High School,514,85,16.54,27,5.25,112,21.79
+1293,Wells-Ogunquit Csd,Wells Junior High School,487,68,13.96,32,6.57,100,20.53
+1191,York School Department,Coastal Ridge Elementary,337,34,10.09,12,3.56,46,13.65
+1191,York School Department,Village Elementary School-York,320,35,10.94,12,3.75,47,14.69
+1191,York School Department,York High School,636,77,12.11,19,2.99,96,15.09
+1191,York School Department,York Middle School,621,70,11.27,13,2.09,83,13.37
