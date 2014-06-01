@@ -1,0 +1,1765 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Acton Ecumenical Food Pantry",
+        "address": "59 H-Road, Acton ME 04001",
+        "phone-number": "",
+        "Accuracy Score": "0.33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.90978,
+          43.53425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Loaves and Fishes",
+        "address": "123 Benton Rd, Albion ME 04910",
+        "phone-number": "",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.447635842105,
+          44.541201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Andover Food Pantry",
+        "address": "23 Elm Street, Andover, ME 04216",
+        "phone-number": "",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.74495122449,
+          44.636679040816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arundel Food Pantry",
+        "address": "1237 Alfred Road, Arundel ME 04046,  ",
+        "phone-number": "229-0167",
+        "Accuracy Score": "0.22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.46316,
+          43.35997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ashland Food Pantry",
+        "address": "31-A Station Street, Ashland, ME  ",
+        "phone-number": "551-3350",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.407740333333,
+          46.630845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Good Shepherd Food Bank",
+        "address": "3121 Hotel Rd. Auburn, ME 04210  ",
+        "phone-number": "207-782-3554",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.287573666667,
+          44.030759888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Louis Church Food Pantry",
+        "address": "101 Second Street, Auburn, ME 04210 ",
+        "phone-number": " 207-782-2577",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2203,
+          44.086343615385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seventh Day Adventist Food Pantry",
+        "address": "310 Minot Ave, Auburn, ME 04210  ",
+        "phone-number": "207-689-3107",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.238376,
+          44.086427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "High Street Congregational Church Food Pantry",
+        "address": "106 Pleasant Street Auburn, ME ",
+        "phone-number": "207-784-1306",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.228154714286,
+          44.097009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Augusta Food bank",
+        "address": "9 Summer ST, Augusta, ME - 04330,",
+        "phone-number": " 207-622-5225",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.778531,
+          44.317198959184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salvation Army - Augusta Food Pantry",
+        "address": "11 N Pearl St. Augusta, ME - 04330 ",
+        "phone-number": " 207-623-3752",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.761671,
+          44.323777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Together Place Food Pantry",
+        "address": "150 Union Street, Bangor, ME - 04401 ",
+        "phone-number": " 207-941-2907",
+        "Accuracy Score": "0.8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.773291548387,
+          44.799100645161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salvation Army - Bangor Food Pantry",
+        "address": "65 S Park St. Bangor, ME 04401",
+        "phone-number": "207-941-2990",
+        "Accuracy Score": "0.22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.850405,
+          44.848517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manna Inc. Food Pantry",
+        "address": "629 Main Street, Bangor ME 04401",
+        "phone-number": "207-990-2870",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.779892,
+          44.785092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Estern Maine AIDS Network - Food Pantry",
+        "address": "370 Harlow Street",
+        "phone-number": "207-990-3626",
+        "Accuracy Score": "0.22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.230818,
+          27.108081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ecumenical Food Pantry",
+        "address": "28 High Street, Bangor ME 04401",
+        "phone-number": "207-942-0131",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.774626565217,
+          44.801034608696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EMAN",
+        "address": "70 Harlow Street, bangor ME 04401",
+        "phone-number": "207-990-3626",
+        "Accuracy Score": "0.8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.771149373239,
+          44.803709288732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Samaritan  - The Rock Church ",
+        "address": "1195 Ohio Street, bangorME 04401",
+        "phone-number": "(207) 200-4747",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.817780315069,
+          44.831204027397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Samaritan, Inc. Center Street",
+        "address": "146 Center Street - Wesleyan Church, Bangor, ME 04401",
+        "phone-number": "207-200-4747",
+        "Accuracy Score": "0.33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.850405,
+          44.848517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bar Harbor Food Pantry",
+        "address": "179 Gilbert Farm Road, Bar Harbor, ME 04069",
+        "phone-number": "207-288-3375",
+        "Accuracy Score": "0.22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.189159,
+          43.894983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salvation Army Food Pantry",
+        "address": "25 Congress Ave. Bath, ME 04530",
+        "phone-number": "207-443-3611",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.83288975,
+          43.91149575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Little River Baptist Church Food Pantry",
+        "address": "259 Northport ave, Belfast, ME 04915",
+        "phone-number": "207-589-4557",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.987603090909,
+          44.396986272727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Greater Belfast Area Ministerial Food Cupboard",
+        "address": "23 Mill Lane, Belfast, ME 04915",
+        "phone-number": "207-338-5575",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.998682882353,
+          44.435203764706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Belfast Church of the Nazarene Food Pantry",
+        "address": "95A Swan Lake Ave, Belfast, ME 04915",
+        "phone-number": "207-338-3740",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.000327,
+          44.446666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Belfast Soup Kitchen",
+        "address": "9 Field Street Unit 124 A, Belfast, ME 04915",
+        "phone-number": "(207) 338-4845",
+        "Accuracy Score": "0.33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.040297,
+          44.404619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "First Baptist Church Food Pantry",
+        "address": "321 Pond Rd. Mount Vernon, ME 04352",
+        "phone-number": "207-293-2273",
+        "Accuracy Score": "0.22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.986762,
+          44.461522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sidney Food Cupboard",
+        "address": "3018 West River Rd-2nd Baptist Church, Sidney, ME 04330",
+        "phone-number": "207-547-3543",
+        "Accuracy Score": "0.27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.728934,
+          44.413123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Belgrade-Rome Special Needs Food Pantry",
+        "address": "6 Manchester Rd. Belgrade, ME 04917",
+        "phone-number": "207-495-2258",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.846864894737,
+          44.460499894737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Table of Plenty Food Kitchen",
+        "address": "37 School St. Berwick, ME 03901",
+        "phone-number": "(207) 698-9771",
+        "Accuracy Score": "0.33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.86213,
+          43.26855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bethel District Exchange",
+        "address": "19 Philbrook Street, Bethel ME 04217",
+        "phone-number": "(207)836-3701",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.78910455102,
+          44.406517469388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Friends of Community Action Food Pantry",
+        "address": "162 Elm Street, Biddeford, ME 04005",
+        "phone-number": "207-282-4771",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.4596142,
+          43.4943722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stone Soup Food Pantry",
+        "address": "316 Main Street, Biddeford, ME 04005",
+        "phone-number": "207-283-0055",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.460632166667,
+          43.495266166667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tree of Life Food Pantry",
+        "address": "23 South Street, Blue Hill, ME 04614",
+        "phone-number": "207-374-2900",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.5946294,
+          44.405663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boothbay Region Food pantry",
+        "address": "1 Eastern Avenue (Congregational Church), Boothbay, ME 04537",
+        "phone-number": "207-633-4952",
+        "Accuracy Score": "0.33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.627163,
+          43.894903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boothbay Region Food Pantry",
+        "address": "125 Townsend Ave. Boothbay Harbor, ME - 04538",
+        "phone-number": "207-633-4757",
+        "Accuracy Score": "0.22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.62324,
+          43.85559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brewer Christian Food Cupboard",
+        "address": "71 Center Street Brewer, ME 04412",
+        "phone-number": "207-949-4944",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.762631529412,
+          44.797335078431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brewer Area Food Pantry",
+        "address": "222 North Main Street, Brewer Maine, 04401",
+        "phone-number": "207-605-1144",
+        "Accuracy Score": "0.22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.850405,
+          44.848517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brownfield Food Pantry",
+        "address": "701 Pequaket Trail, Brownfield, ME - 04010",
+        "phone-number": "207-935-2333",
+        "Accuracy Score": "0.33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.90868,
+          43.93813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Midcoast Hunger Prevention Program Soup Kitchen",
+        "address": "84A Union St. Brunswick, ME 04011",
+        "phone-number": "207-729-8647",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.96743,
+          43.911502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buckfield Food Pantry",
+        "address": "56 Turner St. Buckfield, ME - 04220",
+        "phone-number": "(207) 336-2230",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.359907,
+          44.286456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buxton Food Coop",
+        "address": "262 Hanes Meadow Rd, Buxton, ME 04093",
+        "phone-number": "207-929-8806",
+        "Accuracy Score": "0.22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.60311,
+          43.66702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Irene Chadbourne Ecumenical Food Pantry",
+        "address": "513 Main St. Calais, ME 04619",
+        "phone-number": "207-454-8238",
+        "Accuracy Score": "0.8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.272884153846,
+          45.1873595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Calais Church of God Food Ministries",
+        "address": "3 Germain St. Calais, ME 04619",
+        "phone-number": "207-454-0938",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.2731385,
+          45.1869385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Camden Area Christian Food Pantry",
+        "address": "128 Mount Battie St. Camden, ME 04843",
+        "phone-number": "207-236-9790",
+        "Accuracy Score": "0.8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.082175465116,
+          44.222190598837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canaan Community Food Bank",
+        "address": "272 Main St. Canaan, ME - 04924",
+        "phone-number": "207-474-5408",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.563031857143,
+          44.761929857143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canton Food Pantry",
+        "address": "Canton Fire Station, Canton, ME 04221",
+        "phone-number": "207-597-2694",
+        "Accuracy Score": "0.53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.891768,
+          41.834265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "United Baptist Food Pantry",
+        "address": "74 High St. Caribou, ME 04736",
+        "phone-number": "207-496-7881",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.009534,
+          46.8606115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Louis Ecumenical Food Pantry",
+        "address": "31 Thomas Ave. Caribou, ME 04736",
+        "phone-number": "207-498-2536",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.007044,
+          46.856578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caribou Bread of Life Soup Kitchen",
+        "address": "60 Collins St. Caribou, ME 04736",
+        "phone-number": "207-493-4858",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.017508666667,
+          46.861758666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Goodwill Food Pantry",
+        "address": "872 Main Street Lot 89, Caribou, ME 04736",
+        "phone-number": "207-496-4201",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.012274857143,
+          46.873319714286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Family Food Pantry of Carmel",
+        "address": "87 Damascus Rd. Carmel ME 04419",
+        "phone-number": "207-659-9942",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0649975,
+          44.806204875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carmel Food Cupboard",
+        "address": "4 Plymouth Rd. Carmel, ME 04419",
+        "phone-number": "207-848-7111",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.97454825,
+          44.80955975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Town of Carthage Food Pantry",
+        "address": "703 Carthage Rd. Cathage, ME 04224",
+        "phone-number": "207-562-8874",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.444757490196,
+          44.634440823529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casco Village Church",
+        "address": "941 Meadow Road, Casco, ME 04015",
+        "phone-number": "207-627-4282",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.521987173913,
+          44.004416217391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casco Alliance Church Food Pantry",
+        "address": "450 Roosevelt Trail, Casco, ME 04015",
+        "phone-number": "207-655-4054",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.541190518519,
+          43.934699740741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "River Rock Christian Fellowship Food Pantry",
+        "address": "65 Rive Rd. Chelsea, ME 04330",
+        "phone-number": "207-622-7031",
+        "Accuracy Score": "0.27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.717266,
+          44.250347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Weald Bethel Food Pantry",
+        "address": "6 Weald Bethel Lane #6, Cherryfield, ME 04622",
+        "phone-number": "207-546-7424",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.925266375,
+          44.591509666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sea Coast Mission Pantry",
+        "address": "36 Weald Bethel Lane, Cherryfield, ME 04622",
+        "phone-number": "207-546-7424",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.9261991875,
+          44.591079666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chester Baptist Food Pantry",
+        "address": "61 Pea Ridge Road, Chester, Maine 04457",
+        "phone-number": "207-794-2541",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.508026142857,
+          45.409324857143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "China Community Food Pantry",
+        "address": "1320 Lakeview Drive, China ME 04926",
+        "phone-number": "207-968-2421",
+        "Accuracy Score": "0.33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.51726,
+          44.47868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clifton Community Food Bank",
+        "address": "742 Airline Rd. Clifton, ME - 04428",
+        "phone-number": "207-584-2448",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.518743,
+          44.817785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Topsfield Congregational Food Pantry",
+        "address": "12 Vanceboro Rd. Codyville PLT, ME - 04490",
+        "phone-number": "207-796-2747",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.708384375,
+          45.434685354167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Safe Place Food Pantry",
+        "address": "328 Main Street Corinth, ME - 04427",
+        "phone-number": "207-299-7671",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.022636615385,
+          45.001928307692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riverside UMC Food Pantry",
+        "address": "5 School Street Cornish, ME ",
+        "phone-number": "207-625-4324",
+        "Accuracy Score": "0.33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.791727,
+          43.77397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cornville/Athens Food Cupboard",
+        "address": "493 West Ridge Road, Cornville, ME - 04976",
+        "phone-number": "207-654-3071",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.673485863014,
+          44.837116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cumberland/North Yarmouth Community Food Pantry",
+        "address": "Cumberland Town Hall, 290 Tuttle Road, Cumberland, ME 04021",
+        "phone-number": "207-829-2205",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2449515,
+          43.789707875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Town of Danforth Food Pantry",
+        "address": "62 Depot Street Danforth, ME 04424",
+        "phone-number": "207-448-2611",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.86617275,
+          45.659337875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Island Food Pantry",
+        "address": "17 Woods Rd. Deer Isle, ME 04627",
+        "phone-number": "207-348-6067",
+        "Accuracy Score": "0.22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.711691,
+          44.213503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dixfield Food Pantry",
+        "address": "2 Chapel Rd. Dixfield, ME 04224",
+        "phone-number": "207-562-7470",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.379824,
+          44.540241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Stephen's Food For Life Pantry",
+        "address": "424 Sokokis Trail E Waterboro, ME - 04030",
+        "phone-number": "207-637-3226",
+        "Accuracy Score": "0.22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.689681,
+          43.596921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tri-Town Baptist Food Pantry",
+        "address": "East Millinicket, ME",
+        "phone-number": "207-746-2211",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.57388,
+          45.62555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Friends Helping Friends - Easton Branch",
+        "address": "23 Station Rd. Easton, ME 04740",
+        "phone-number": "207-488-2481",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.910643192771,
+          46.650327710843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Labor of Love Food Pantry",
+        "address": "9 Janney St. Eastport, ME 04631",
+        "phone-number": "207-853-2373",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.027701306122,
+          44.929780530612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Loaves and Fished Food Pantry",
+        "address": "119 Bucksport Rd Ellsworth, ME, 04605",
+        "phone-number": "207-667-4363",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.4380048125,
+          44.5391240625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Emmaus Center Food Pantry",
+        "address": "51 Main Street Ellsworth, ME 04605",
+        "phone-number": "207-667-3962",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.397109,
+          44.552391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Next Step Food Pantry",
+        "address": "733 Bangor Rd Ellswort, ME 04605",
+        "phone-number": "207-255-4934",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.499022969697,
+          44.58766730303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stratton-Eustis Food Pantry",
+        "address": "Rte 27 Eustis, ME 04982",
+        "phone-number": "207-246-6231",
+        "Accuracy Score": "0.22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.44062,
+          45.14117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fairfield Interfaith Food Pantry",
+        "address": "21 High Street, Fairfield, ME 04937",
+        "phone-number": "207-453-2780",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.601759,
+          44.58447775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Falmouth Food Pantry",
+        "address": "271 Falmouth Rd. Falmouth, ME 04105",
+        "phone-number": "207-632-2687",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.279811833333,
+          43.733342166667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Safe Voice",
+        "address": "200 Livermore Falls Road Farmington, ME 04938",
+        "phone-number": "207-7795-6744",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.160090743886,
+          44.622663093819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Care and Share Food Closet",
+        "address": "508 Fairbanks Rd. Farmington, ME 04938",
+        "phone-number": "207-7795-6744",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.1605373125,
+          44.6978805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fayette Baptist Church Food Pantry",
+        "address": "39 Baldwin Hill Fayette, ME 04349",
+        "phone-number": "207-685-9492",
+        "Accuracy Score": "0.27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.033665,
+          44.408956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Friends Helping Friends ",
+        "address": "94 Presque Isle Street, Rt 1A Fort Fairfield, ME - 04742",
+        "phone-number": "207-472-3041",
+        "Accuracy Score": "0.22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.841507,
+          46.746453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Greater Fort Kent Ecumenical Food Pantry",
+        "address": "229 West Main Street Suite 103 Fort Kent, ME 04743",
+        "phone-number": "207-834-5496",
+        "Accuracy Score": "0.22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.58101,
+          47.26484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ACAP Food Pantry",
+        "address": "40 Alfafa Avenue Suite 102 Fort Kent, Me 04743",
+        "phone-number": "207-834-5135",
+        "Accuracy Score": "0.22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.58101,
+          47.26484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Freeport Community Services Food Pantry",
+        "address": "53 Depot Street, Freeport, ME 04032",
+        "phone-number": "207-865-3985",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.1044805,
+          43.8547875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Luce Social Action Food Pantry",
+        "address": "45 US Route 1 Frenchville, ME 04745",
+        "phone-number": "207-543-7447",
+        "Accuracy Score": "0.33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.388783,
+          47.282101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Friendship-Cushing Food Pantry",
+        "address": "3 Main St Friendship, ME 04547",
+        "phone-number": "207-832-9989",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.332850461538,
+          43.984822076923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fryeburg Assembly of God Food Pantry",
+        "address": "8 Drift Rd. Fryeburg, ME 04037",
+        "phone-number": "207-935-3129",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.984842,
+          44.016281363636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grace Baptist Church Food Pantry",
+        "address": "108 Spring Street Gardiner, ME  04345",
+        "phone-number": "207-582-5087",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.773004,
+          44.232813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South Gardiner Baptist Church Food Pantry",
+        "address": "641 River Ave Gardiner, ME 04345",
+        "phone-number": "207-582-3751",
+        "Accuracy Score": "0.8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.756885942308,
+          44.184450096154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Samaritan Inc. Glenburn",
+        "address": "911 Hudson Rd - Glenburn Covenant Church Glenburn, ME 04401",
+        "phone-number": "207-200-4747",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.845084,
+          44.903967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Life Line Ministries Food Pantry",
+        "address": "269 South Gouldsboro Rd Gouldsboro, ME - 04607",
+        "phone-number": "207-664-4824",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.102848,
+          44.459784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Peter Chanel Food Pantry (CCM)",
+        "address": "70n Main St. Van Buren, ME 04785",
+        "phone-number": "207-868-2805",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.923835,
+          47.126641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Gerard/Mt. Carmel Food Pantry",
+        "address": "1009 Main Street Grand Isle Grand Isle ME  04746",
+        "phone-number": "207-895-6995",
+        "Accuracy Score": "0.22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.15198,
+          47.30532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Greene Baptist Church Food Pantry",
+        "address": "102 Main St. Greene ME 04236",
+        "phone-number": "207-946-5505",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.1417682,
+          44.1895963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guilford Economic Partnership Food Pantry",
+        "address": "31-L High Street Guilford, ME 04443",
+        "phone-number": "207-518-8833",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.387794333333,
+          45.172103833333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hallowel Food Bank Inc",
+        "address": "Perley's Lane Hallowell, ME 04347",
+        "phone-number": "207-622-3039",
+        "Accuracy Score": "0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.79088,
+          44.2859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Joseph's Parish Food Pantry - Hamlin",
+        "address": "1837 Van Buren Road Hamlin, ME 04750",
+        "phone-number": "207-868-5495",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.8062124,
+          47.03335864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oasis Food Pantry ",
+        "address": "72 Laskey Lane, Hampden, ME 04444",
+        "phone-number": "207-862-4287",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.836980854167,
+          44.7514190625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harrison Food Pantry",
+        "address": "886 Edes Falls Rd. Harrison, ME 04040",
+        "phone-number": "207-712-1384",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.624060980392,
+          44.060318705882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tri-town Food Cupboard",
+        "address": "9 A Hubbard Avenue Hartland, ME  04943",
+        "phone-number": "207-938-2244",
+        "Accuracy Score": "0.33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.45866,
+          44.88152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haynesville Town Office Food Pantry",
+        "address": "16 Danforth St. Haynesville, ME 04497",
+        "phone-number": "207-448-2239",
+        "Accuracy Score": "0.22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.07557,
+          45.64062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Samariton, Inc. Hermon",
+        "address": "Hermon Baptist Ch. - 249 Rt. 2 Hermon, ME 04401",
+        "phone-number": "207-200-4747",
+        "Accuracy Score": "0.27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.913372,
+          44.81007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hollis Center Baptist Food Pantry",
+        "address": "388 Hollis Rd. Hollis Center, ME 04042",
+        "phone-number": "207-929-4711",
+        "Accuracy Score": "0.22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.624391,
+          43.584232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Mary's Food Pantry - Houlton",
+        "address": "110 Military Street Houlton, ME 04730",
+        "phone-number": "207-532-9122",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.825829,
+          46.1249818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Houtlon Band of Maliseet Indians Food Pantry",
+        "address": "13 Clover St. Houlton, ME 04730",
+        "phone-number": "207-532-7260",
+        "Accuracy Score": "0.33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.833009,
+          46.121345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hope and Justice Project",
+        "address": "10 Chalrles St. Houlton, ME 04730",
+        "phone-number": "207-521-0047",
+        "Accuracy Score": "0.33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.833009,
+          46.121345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Howland United Methodist Church Food Pantry",
+        "address": "37 Coffin St. Howland, ME 04448",
+        "phone-number": "207-732-3954",
+        "Accuracy Score": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.659882,
+          45.235388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Samaritan Inc. - Hudson",
+        "address": "2334 Hudson Rd - Hudson Town Hall, Hudson, ME 04401",
+        "phone-number": "207-200-4747",
+        "Accuracy Score": "0.22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.850405,
+          44.848517
+        ]
+      }
+    }
+  ]
+}
