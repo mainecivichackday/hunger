@@ -6,10 +6,7 @@ body {
   font: 400 1em/1.6 ff-tisa-sans-web-pro, helvetica, tahoma, sans-serif; }
 
 .container {
-  padding: 1em;
-  margin: 0 auto;
-  margin-top: 5em;
-  max-width: 40rem; }
+  padding: 4rem; }
 
 h1,
 h2,

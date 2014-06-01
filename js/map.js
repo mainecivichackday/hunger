@@ -1,7 +1,9 @@
 var map = L.map('map', {
+
+	// Initialize map and set defaults
 	center: new L.LatLng(45, -69.3),
 	zoom: 7,
-	layers: new L.tileLayer('http://a.tiles.mapbox.com/v3/jacques.map-612s2qsj/{z}/{x}/{y}.png')
+	layers: new L.tileLayer('http://a.tiles.mapbox.com/v3/jacques.id6lenam/{z}/{x}/{y}.png')
 });
 
 var markerOptions = {
@@ -13,6 +15,8 @@ var markerOptions = {
 	fillOpacity: 0.6
 };
 
+
+// Load the 2014-school-lunch data
 $.getJSON("./data/addresses.geojson", function(data) {
 	var geojson = L.geoJson(data, {
 		pointToLayer: function(feature, latlng) {
