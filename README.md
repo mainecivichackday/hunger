@@ -5,6 +5,15 @@ _[A Maine Civic Hack Day 2014](http://www.civichack.me/2014/) project._
 
 This project is aimed at increasing awareness of the prevalance of food security issues in Maine. Datasets hidden in HTML tables and other hard-to-access formats were collected and cleaned to help lower the difficulty of future projects related to food security issues here in Maine.
 
+The challenge was to create a visual representation of data that highlights the correlations between childhood hunger and educational attainment. While school performance data was limited over the past ten years, we were able to show a clear relationship between areas of Maine where families are struggling to put food on the table (as evidenced by enrollment in Food Assistance Programs) and average school grades by county.  Counties where families are food insecure have consistently lower educational performance. 
+
+Interestingly, when we plot food insecurity over time, we see that it is rising, even as the unemployment rate is dropping. What we can learn from this is that even though more Mainers are working, they are still not earning enough to be secure. In Maine, rural households face hunger at a higher rate than urban families.
+
+Additionally, we gathered location and contact information for food pantries and soup kitchens across the state. The large majority of these resources are concentrated in more densely populated areas, but hunger remains a problem in the areas where food pantries are sparse. 
+
+
+
+
 ![](http://img.shields.io/badge/version-alpha-red.svg?style=flat)
 
 [![](https://pbs.twimg.com/media/Bo99swkIMAAqNX-.jpg:large)](https://twitter.com/RandalHunt/status/472734693943947265/photo/1)
