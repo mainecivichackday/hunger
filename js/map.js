@@ -17,13 +17,13 @@ var markerOptions = {
 
 
 // Load the 2014-school-lunch data
-$.getJSON("./data/addresses.geojson", function(data) {
+$.getJSON("./data/pantries.geojson", function(data) {
 	var geojson = L.geoJson(data, {
 		pointToLayer: function(feature, latlng) {
 			return L.circleMarker(latlng, markerOptions);
 		},
 		onEachFeature: function (feature, layer) {
-			layer.bindPopup(feature.properties.Enroll);
+			layer.bindPopup(feature.properties.name);
 		}
 	}).addTo(map);
 });
