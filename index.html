@@ -1,33 +1,28 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<title>Lunch</title>
+		<meta name="viewport" content="width=device-width">
+		<link rel='stylesheet' href='css/reset.css' />
+		<link rel='stylesheet' href='css/main.css' />
 
-<h1>Lunch.</h1>
+		<script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js'></script>
+		<script type='text/javascript' src='bower_components/leaflet/dist/leaflet.js'></script>
+		<link rel='stylesheet' href='bower_components/leaflet/dist/leaflet.css' />
 
-<div id='map'></div>
+	</head>
 
-<script type='text/javascript'>
+	<body>
 
-	var map = L.map('map', {
-		center: new L.LatLng(45, -69.3),
-		zoom: 7,
-		layers: new L.tileLayer('http://a.tiles.mapbox.com/v3/jacques.map-612s2qsj/{z}/{x}/{y}.png')
-	});
+		<div class='container'>
+			<h1>Lunch.</h1>
+			<div id='map'></div>
+		</div>
 
-	var markerOptions = {
-		radius: 5,
-		fillColor: "#ff0000",
-		color: "#ff0000",
-		weight: 1,
-		opacity: 0.8,
-		fillOpacity: 0.6
-	};
-
-	$.getJSON("./data/maine-school-address.geojson", function(data) {
-		var geojson = L.geoJson(data, {
-			pointToLayer: function(feature, latlng) {
-				return L.circleMarker(latlng, markerOptions);
-			}
-		}).addTo(map);
-	});
-</script>
+		<script type='text/javascript' src='js/map.js'></script>
+		<script type="text/javascript" src="//use.typekit.net/miq6xoz.js"></script>
+		<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+	</body>
+</html>
